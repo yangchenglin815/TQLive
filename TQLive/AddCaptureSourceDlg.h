@@ -1,0 +1,45 @@
+#pragma once
+
+#include <QDialog>
+#include <obs.hpp>
+#include <memory>
+#include "ui_AddCaptureSourceDlg.h"
+
+class OBSBasic;
+class AddCaptureSourceDlg : public QDialog
+{
+	Q_OBJECT
+	using properties_delete_t = decltype(&obs_properties_destroy);
+	using properties_t =
+		std::unique_ptr<obs_properties_t, properties_delete_t>;
+
+public:
+	AddCaptureSourceDlg(QWidget *parent);
+	~AddCaptureSourceDlg();
+
+protected:
+	void closeEvent(QCloseEvent *event);
+
+public:
+	void Load();
+	QString getSourceName();
+	void StartToCapture();
+	void PorpertiesUpdate(int left, int right, int top, int bottom);
+
+private slots:
+	void onDialogClosed();
+	void onConfirmClicked();
+	void onSelectedChanged(int index);
+
+private:
+	void InitUI();
+	void InitConnect();
+	void InitSource();
+
+private:
+	Ui::AddCaptureSourceDlg ui;
+	OBSBasic *main;
+	OBSSource m_pSource;
+	properties_t properties = nullptr;
+	obs_property_t *monitor_property = nullptr;
+};

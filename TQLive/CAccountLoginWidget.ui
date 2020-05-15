@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CAccountLoginWidget</class>
+ <widget class="QWidget" name="CAccountLoginWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>340</width>
+    <height>142</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>340</width>
+    <height>142</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>340</width>
+    <height>142</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>CAccountLoginWidget</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background:rgba(47,47,47,1);
+border:0px;
+</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout" stretch="0,1,0">
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_4">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <item>
+      <widget class="QLabel" name="label_3">
+       <property name="minimumSize">
+        <size>
+         <width>37</width>
+         <height>38</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>37</width>
+         <height>38</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border:1px solid rgba(88,88,88,1);
+border-radius:4px;
+border-right:0px;
+border-top-right-radius:0px;
+border-bottom-right-radius:0px;
+</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap resource="TQLive.qrc">:/TQLive/images/lb_user.png</pixmap>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="le_account_number">
+       <property name="minimumSize">
+        <size>
+         <width>303</width>
+         <height>38</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>303</width>
+         <height>38</height>
+        </size>
+       </property>
+       <property name="font">
+        <font>
+         <family>微软雅黑</family>
+         <pointsize>-1</pointsize>
+         <weight>50</weight>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="contextMenuPolicy">
+        <enum>Qt::NoContextMenu</enum>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border:1px solid rgba(88,88,88,1);
+border-radius:4px;
+border-left:0px;
+border-top-left-radius:0px;
+border-bottom-left-radius:0px;
+font-size:12px;
+font-family:&quot;微软雅黑&quot;;
+font-weight:400;
+color:rgba(119,119,119,1);</string>
+       </property>
+       <property name="placeholderText">
+        <string>探球号/昵称</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_5">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <property name="topMargin">
+      <number>20</number>
+     </property>
+     <property name="bottomMargin">
+      <number>0</number>
+     </property>
+     <item>
+      <widget class="QLabel" name="label_2">
+       <property name="minimumSize">
+        <size>
+         <width>37</width>
+         <height>36</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>37</width>
+         <height>36</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border:1px solid rgba(88,88,88,1);
+border-radius:4px;
+border-right:0px;
+border-top-right-radius:0px;
+border-bottom-right-radius:0px;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap resource="TQLive.qrc">:/TQLive/images/lb_password.png</pixmap>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="le_password">
+       <property name="minimumSize">
+        <size>
+         <width>266</width>
+         <height>36</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>266</width>
+         <height>36</height>
+        </size>
+       </property>
+       <property name="contextMenuPolicy">
+        <enum>Qt::NoContextMenu</enum>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border:1px solid rgba(88,88,88,1);
+border-right-width:0px;
+border-radius:4px;
+border-left:0px;
+border-top-left-radius:0px;
+border-bottom-left-radius:0px;
+border-right:0px;
+border-top-right-radius:0px;
+border-bottom-right-radius:0px;
+font-size:12px;
+font-family:&quot;微软雅黑&quot;;
+font-weight:400;
+color:rgba(119,119,119,1);</string>
+       </property>
+       <property name="placeholderText">
+        <string>输入密码</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="CCustomLabel" name="lb_peek_password">
+       <property name="minimumSize">
+        <size>
+         <width>37</width>
+         <height>36</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>37</width>
+         <height>36</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border:1px solid rgba(88,88,88,1);
+border-radius:4px;
+border-left:0px;
+border-top-left-radius:0px;
+border-bottom-left-radius:0px;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap resource="TQLive.qrc">:/TQLive/images/lb_unpeek_password.png</pixmap>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_E_2">
+     <property name="spacing">
+      <number>29</number>
+     </property>
+     <property name="leftMargin">
+      <number>0</number>
+     </property>
+     <property name="topMargin">
+      <number>17</number>
+     </property>
+     <property name="bottomMargin">
+      <number>17</number>
+     </property>
+     <item>
+      <widget class="QCheckBox" name="cb_remember_pwd">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>12</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>12</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QCheckBox{
+font-size:12px;
+font-family:&quot;微软雅黑&quot;;
+font-weight:400;
+padding:0px;
+color:rgba(119,119,119,1);
+}
+QCheckBox::indicator:unchecked {
+ image: url(:/TQLive/images/cb_common_unchecked.png);
+}
+QCheckBox::indicator:unchecked:hover{
+image: url(:/TQLive/images/settings_checkbox_default_hover.png);
+}
+QCheckBox::indicator:checked { 
+image: url(:/TQLive/images/settings_checkbox_selected.png);
+}
+QCheckBox::indicator:checked:hover{
+image: url(:/TQLive/images/cb_common_checked.png);
+}
+</string>
+       </property>
+       <property name="text">
+        <string>记住密码</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="cb_auto_login">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>12</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>12</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QCheckBox{
+font-size:12px;
+font-family:&quot;微软雅黑&quot;;
+font-weight:400;
+color:rgba(119,119,119,1);
+}
+QCheckBox::indicator:unchecked {
+ image: url(:/TQLive/images/cb_common_unchecked.png);
+}
+QCheckBox::indicator:unchecked:hover{
+image: url(:/TQLive/images/settings_checkbox_default_hover.png);
+}
+QCheckBox::indicator:checked { 
+image: url(:/TQLive/images/settings_checkbox_selected.png);
+}
+QCheckBox::indicator:checked:hover{
+image: url(:/TQLive/images/cb_common_checked.png);
+}</string>
+       </property>
+       <property name="text">
+        <string>自动登录</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_6">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>CCustomLabel</class>
+   <extends>QLabel</extends>
+   <header location="global">ccustomlabel.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="TQLive.qrc"/>
+ </resources>
+ <connections/>
+</ui>

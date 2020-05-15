@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ExitAppTipsDlg</class>
+ <widget class="QDialog" name="ExitAppTipsDlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>360</width>
+    <height>250</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>360</width>
+    <height>250</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>360</width>
+    <height>250</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>ExitAppTipsDlg</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#wgt_main{
+background:#262626;
+border:1px solid #585858;
+}
+QLabel,QCheckBox,QRadioButton,QPushButton{
+font-family:&quot;微软雅黑&quot;;
+font-size:12px;
+color:#999999;
+background:transparent;
+}
+QCheckBox{
+spacing:10px;
+padding-left:30px;
+}
+QCheckBox::indicator{
+width:12px;
+height:12px;
+}
+QCheckBox::indicator:unchecked{
+image: url(:/TQLive/images/cb_common_unchecked.png);
+}
+QCheckBox::indicator:unchecked:hover{
+image: url(:/TQLive/images/settings_checkbox_default_hover.png);
+}
+QCheckBox::indicator:checked{
+image: url(:/TQLive/images/settings_checkbox_selected.png);
+}
+QCheckBox::indicator:checked:hover{
+image: url(:/TQLive/images/cb_common_checked.png);
+}
+QRadioButton{
+spacing:6px;
+padding-left:30px;
+}
+QRadioButton::indicator{
+width:12px;
+height:12px;
+}
+QRadioButton::indicator:unchecked{
+image: url(:/TQLive/images/settings_radio_default.png);
+}
+QRadioButton::indicator:unchecked:hover{
+image: url(:/TQLive/images/settings_radio_default_hover.png);
+}
+QRadioButton::indicator:checked{
+image: url(:/TQLive/images/settings_radio_selected.png);
+}
+QRadioButton::indicator:checked:hover{
+border-image: url(:/TQLive/images/settings_radio_selected_hover.png);
+}</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <item row="0" column="0">
+    <widget class="QWidget" name="wgt_main" native="true">
+     <property name="styleSheet">
+      <string notr="true">#wgt_title{
+background:#2F2F2F;
+}
+#lbl_title{
+color:#4AB134;
+font-size:14px;
+}
+#btn_close{
+background-image: url(:/TQLive/images/pb_close_pressed.png);
+background-repeat:no-repeat;
+border:none;
+}
+#btn_close:hover{
+background-image: url(:/TQLive/images/pb_close_normal.png);
+}
+#btn_close:pressed{
+margin:1px;
+padding:1px;
+}
+#lbl_tips{
+color:#DCDCDC;
+font-size:14px;
+padding-left:30px;
+}
+#btn_confirm{
+background-image: url(:/TQLive/images/btn_confirm.png);
+background-repeat:no-repeat;
+border:none;
+}
+#btn_confirm:hover{
+background-image: url(:/TQLive/images/btn_confirm_hover.png);
+}
+#btn_confirm:pressed{
+margin:1px;
+padding:1px;
+}
+#btn_cancel{
+background-image: url(:/TQLive/images/btn_cancel.png);
+background-repeat:no-repeat;
+border:none;
+}
+#btn_cancel:hover{
+background-image: url(:/TQLive/images/btn_cancel_hover.png);
+}
+#btn_cancel:pressed{
+margin:1px;
+padding:1px;
+}</string>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <property name="spacing">
+       <number>15</number>
+      </property>
+      <property name="leftMargin">
+       <number>1</number>
+      </property>
+      <property name="topMargin">
+       <number>1</number>
+      </property>
+      <property name="rightMargin">
+       <number>1</number>
+      </property>
+      <property name="bottomMargin">
+       <number>1</number>
+      </property>
+      <item>
+       <widget class="QWidget" name="wgt_title" native="true">
+        <property name="minimumSize">
+         <size>
+          <width>0</width>
+          <height>34</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>16777215</width>
+          <height>34</height>
+         </size>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_5">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <property name="leftMargin">
+          <number>19</number>
+         </property>
+         <property name="topMargin">
+          <number>0</number>
+         </property>
+         <property name="rightMargin">
+          <number>9</number>
+         </property>
+         <property name="bottomMargin">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="lbl_title">
+           <property name="text">
+            <string>退出提示</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="btn_close">
+           <property name="minimumSize">
+            <size>
+             <width>12</width>
+             <height>13</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>12</width>
+             <height>13</height>
+            </size>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="lbl_tips">
+        <property name="text">
+         <string>您点击了关闭按钮，您是想：</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_2">
+        <item>
+         <widget class="QRadioButton" name="radioButton_min">
+          <property name="styleSheet">
+           <string notr="true"/>
+          </property>
+          <property name="text">
+           <string>最小化到系统托盘，不退出程序</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer_2">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_3">
+        <item>
+         <widget class="QRadioButton" name="radioButton_exit">
+          <property name="text">
+           <string>退出程序</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer_3">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_4">
+        <item>
+         <widget class="QCheckBox" name="checkBox_noTips">
+          <property name="text">
+           <string>下次不再提示</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer_4">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <spacer name="verticalSpacer">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>74</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <property name="spacing">
+         <number>20</number>
+        </property>
+        <property name="leftMargin">
+         <number>20</number>
+        </property>
+        <property name="rightMargin">
+         <number>20</number>
+        </property>
+        <property name="bottomMargin">
+         <number>20</number>
+        </property>
+        <item>
+         <spacer name="horizontalSpacer">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item>
+         <widget class="QPushButton" name="btn_confirm">
+          <property name="minimumSize">
+           <size>
+            <width>82</width>
+            <height>26</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>82</width>
+            <height>26</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="btn_cancel">
+          <property name="minimumSize">
+           <size>
+            <width>82</width>
+            <height>26</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>82</width>
+            <height>26</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="TQLive.qrc"/>
+ </resources>
+ <connections/>
+</ui>

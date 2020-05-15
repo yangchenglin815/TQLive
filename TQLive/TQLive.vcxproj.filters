@@ -1,0 +1,1185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="login">
+      <UniqueIdentifier>{4554f32f-93df-4b40-95e9-926642f0ad5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="im">
+      <UniqueIdentifier>{4cfa4511-382c-4479-b478-eb01ecb1d106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Barrage assistant">
+      <UniqueIdentifier>{3cabd75a-8122-452e-b0dd-332d7b666d8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RoomManage assistant">
+      <UniqueIdentifier>{31099da9-abc4-4baa-8919-cd592a5fbab7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{651f5765-72fc-49b0-bda6-618f7dea484a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Red envelope">
+      <UniqueIdentifier>{b490349f-0351-4ebe-a1d2-e7babe153f2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GroupChat Settings">
+      <UniqueIdentifier>{ac4ac9f9-e1e6-488d-b582-5392a05e6a69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System Settings">
+      <UniqueIdentifier>{0b067b8f-d521-433c-8689-57f825d92fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common component">
+      <UniqueIdentifier>{3caa2709-be59-4ec8-90a2-860674f5749e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{ee41ead4-d8f2-4fc2-8a61-7892c72550de}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{3b141d54-6a7b-4a64-9fb9-f18ee90f5986}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="adv-audio-control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="api-interface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="audio-encoders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="auth-base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CTQLiveWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="double-slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="focus-list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="horizontal-scroll-area.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hotkey-edit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="item-widget-helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="locked-checkbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu-button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="obs-app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="platform-windows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="properties-view.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qt-display.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qt-wrappers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="remote-text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="slider-absoluteset-style.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source-label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source-list-widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source-tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vertical-scroll-area.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="visibility-checkbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="visibility-item-widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="volume-control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-about.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-adv-audio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-auto-config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-auto-config-test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-filters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-interaction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-main-browser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-main-dropfiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-main-outputs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-main-profiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-main-scene-collections.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-main-transitions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-preview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-properties.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-settings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-settings-stream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-source-select.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-stats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-status-bar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-basic-transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-dock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-log-reply.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-namedialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-projector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window-remux.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="update-window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="win-update.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="win-update-helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ff-util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crash-report.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="json11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CInfoDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomHeadBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLoginDlg.cpp">
+      <Filter>login</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomTextEdit.cpp">
+      <Filter>im</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomShadowFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPhoneLoginWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CAccountLoginWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomMainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CTQMainWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomButtonGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLiveContentSelectionDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLiveScheduleWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CFootballSW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CBasketballSW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSynthesisSW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDisplayUserInfoWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompetitionButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BarrageAssistantDlg.cpp">
+      <Filter>Barrage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomManageAssistantDlg.cpp">
+      <Filter>RoomManage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="ForbiddenRecordTableView.cpp">
+      <Filter>RoomManage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="ForbiddenRecordTableModel.cpp">
+      <Filter>RoomManage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="ForbiddenDelegate.cpp">
+      <Filter>RoomManage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomManageTableView.cpp">
+      <Filter>RoomManage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomManageTableModel.cpp">
+      <Filter>RoomManage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomManageDelegate.cpp">
+      <Filter>RoomManage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="CPromptDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RedEnvelopeDlg.cpp">
+      <Filter>Red envelope</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupChatSettingsDlg.cpp">
+      <Filter>GroupChat Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckBox.cpp">
+      <Filter>GroupChat Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpAgent.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemSettingsDlg.cpp">
+      <Filter>System Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="TQLiveAboutDlg.cpp">
+      <Filter>System Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="UserConfig.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="DataPathManager.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="AppInitializer.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="TQPayConfirmDlg.cpp">
+      <Filter>Red envelope</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsIniDlg.cpp">
+      <Filter>System Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="ExitAppTipsDlg.cpp">
+      <Filter>System Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollTextComponent.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="TipsDlg.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="BroadcastReminderDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OffcastStatisticsDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalSignal.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="UpdateTipsDlg.cpp">
+      <Filter>System Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonFunc.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="CUniversalSW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BarrageStatisticsAgent.cpp">
+      <Filter>Barrage assistant</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadManager.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenCaptureDlg.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MaterialListWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MaterialListWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialListWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_CustomMaterialButton.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_CustomMaterialButton.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomMaterialButton.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_UserConfig.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_UserConfig.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_CustomUnderLineButton.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_CustomUnderLineButton.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomUnderLineButton.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_window-basic-main.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_window-basic-main.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_visibility-pushbutton.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_visibility-pushbutton.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="visibility-pushbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_source-tree.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_source-tree.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioControlWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomArrowWgt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomSoundEffectBtn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HotKeyInputLineEdit.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomLoopButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomLoopAction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FramelessHelper.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayMediaLitItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceIniXML.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="AddImageSourceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OpacityButton.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="AddTextSourceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddFullScreenSourceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddCaptureSourceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddMediaSourceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddLiveSourceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddCameraSourceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLiveContentSelectPromptDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CUniversalPromptDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceIniJson.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="UploadImgComponent.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="TextTemplateCom.cpp">
+      <Filter>Common component</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraCacheJson.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="CScaleSize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomCentralWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FeedbackDlg.cpp">
+      <Filter>System Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="CWaterMark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneratedFiles\ui_CTQLiveWindow.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="audio-encoders.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="display-helpers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="item-widget-helpers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="platform.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qt-wrappers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="slider-absoluteset-style.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui-config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="window-basic-main-outputs.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="win-update-helpers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ff-util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCustomShadowFrame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CModelTemplate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CViewTemplate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CGeneralData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnumData.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="StructData.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataPathManager.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstData.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonFunc.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_CustomUnderLineButton.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPtr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceIniXML.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceIniJson.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraCacheJson.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="adv-audio-control.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="auth-base.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="balance-slider.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="clickable-label.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="crash-report.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CTQLiveWindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="double-slider.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="expand-checkbox.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="focus-list.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="horizontal-scroll-area.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="hotkey-edit.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="locked-checkbox.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="menu-button.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mute-checkbox.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="obs-app.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="qt-display.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="remote-text.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="source-label.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="source-list-widget.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="vertical-scroll-area.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="visibility-checkbox.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="visibility-item-widget.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="volume-control.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-about.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-adv-audio.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-auto-config.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-filters.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-interaction.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-preview.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-properties.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-settings.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-source-select.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-stats.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-status-bar.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-basic-transform.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-dock.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-log-reply.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-main.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-namedialog.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-projector.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="window-remux.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="update-window.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="win-update.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="properties-view.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="properties-view.moc.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CInfoDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CCustomButton.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CCustomHeadBar.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CLoginDlg.h">
+      <Filter>login</Filter>
+    </QtMoc>
+    <QtMoc Include="CCustomTextEdit.h">
+      <Filter>im</Filter>
+    </QtMoc>
+    <QtMoc Include="CPhoneLoginWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CAccountLoginWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CCustomMainWindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CTQMainWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CCustomButtonGroup.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CLiveContentSelectionDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CLiveScheduleWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CFootballSW.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CBasketballSW.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CSynthesisSW.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CDisplayUserInfoWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CTestDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CCompetitionButton.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="BarrageAssistantDlg.h">
+      <Filter>Barrage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="RoomManageAssistantDlg.h">
+      <Filter>RoomManage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="ForbiddenRecordTableView.h">
+      <Filter>RoomManage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="ForbiddenRecordTableModel.h">
+      <Filter>RoomManage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="ForbiddenDelegate.h">
+      <Filter>RoomManage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="RoomManageTableView.h">
+      <Filter>RoomManage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="RoomManageTableModel.h">
+      <Filter>RoomManage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="RoomManageDelegate.h">
+      <Filter>RoomManage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="CPromptDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="RedEnvelopeDlg.h">
+      <Filter>Red envelope</Filter>
+    </QtMoc>
+    <QtMoc Include="GroupChatSettingsDlg.h">
+      <Filter>GroupChat Settings</Filter>
+    </QtMoc>
+    <QtMoc Include="CheckBox.h">
+      <Filter>GroupChat Settings</Filter>
+    </QtMoc>
+    <QtMoc Include="HttpAgent.h">
+      <Filter>Utils</Filter>
+    </QtMoc>
+    <QtMoc Include="SystemSettingsDlg.h">
+      <Filter>System Settings</Filter>
+    </QtMoc>
+    <QtMoc Include="TQLiveAboutDlg.h">
+      <Filter>System Settings</Filter>
+    </QtMoc>
+    <QtMoc Include="AppInitializer.h">
+      <Filter>Utils</Filter>
+    </QtMoc>
+    <QtMoc Include="TQPayConfirmDlg.h">
+      <Filter>Red envelope</Filter>
+    </QtMoc>
+    <QtMoc Include="SettingsIniDlg.h">
+      <Filter>System Settings</Filter>
+    </QtMoc>
+    <QtMoc Include="ExitAppTipsDlg.h">
+      <Filter>System Settings</Filter>
+    </QtMoc>
+    <QtMoc Include="ScrollTextComponent.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="TipsDlg.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="BroadcastReminderDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="OffcastStatisticsDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="GlobalSignal.h">
+      <Filter>Utils</Filter>
+    </QtMoc>
+    <QtMoc Include="UpdateTipsDlg.h">
+      <Filter>System Settings</Filter>
+    </QtMoc>
+    <QtMoc Include="CUniversalSW.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="BarrageStatisticsAgent.h">
+      <Filter>Barrage assistant</Filter>
+    </QtMoc>
+    <QtMoc Include="FramelessHelper.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="ThreadManager.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="ScreenCaptureDlg.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="AudioControlWindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CustomArrowWgt.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CustomSoundEffectBtn.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="HotKeyInputLineEdit.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="CustomLoopButton.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CustomLoopAction.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="PlayMediaLitItem.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="AddImageSourceDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="OpacityButton.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="AddTextSourceDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="AddFullScreenSourceDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="AddCaptureSourceDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="AddMediaSourceDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="AddLiveSourceDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="AddCameraSourceDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CLiveContentSelectPromptDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CUniversalPromptDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="UploadImgComponent.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="TextTemplateCom.h">
+      <Filter>Common component</Filter>
+    </QtMoc>
+    <QtMoc Include="CScaleSize.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CCustomCentralWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="FeedbackDlg.h">
+      <Filter>System Settings</Filter>
+    </QtMoc>
+    <QtMoc Include="CWaterMark.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="CTQLiveWindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSBasic.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSBasicFilters.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSBasicInteraction.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSBasicSettings.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSBasicSourceSelect.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSBasicTransform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSAbout.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSLogReply.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSRemux.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OBSUpdate.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ColorSelect.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="NameDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AutoConfigStartPage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AutoConfigTestPage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AutoConfigVideoPage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AutoConfigStreamPage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CInfoDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CLoginDlg.ui">
+      <Filter>login</Filter>
+    </QtUic>
+    <QtUic Include="CPhoneLoginWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CAccountLoginWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CLiveContentSelectionDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CLiveScheduleWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CFootballSW.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CBasketballSW.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CSynthesisSW.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CDisplayUserInfoWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CTestDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CTQMainWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="RoomManageAssistantDlg.ui">
+      <Filter>RoomManage assistant</Filter>
+    </QtUic>
+    <QtUic Include="BarrageAssistantDlg.ui">
+      <Filter>Barrage assistant</Filter>
+    </QtUic>
+    <QtUic Include="CPromptDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="RedEnvelopeDlg.ui">
+      <Filter>Red envelope</Filter>
+    </QtUic>
+    <QtUic Include="GroupChatSettingsDlg.ui">
+      <Filter>GroupChat Settings</Filter>
+    </QtUic>
+    <QtUic Include="SystemSettingsDlg.ui">
+      <Filter>System Settings</Filter>
+    </QtUic>
+    <QtUic Include="TQLiveAboutDlg.ui">
+      <Filter>System Settings</Filter>
+    </QtUic>
+    <QtUic Include="TQPayConfirmDlg.ui">
+      <Filter>Red envelope</Filter>
+    </QtUic>
+    <QtUic Include="SettingsIniDlg.ui">
+      <Filter>System Settings</Filter>
+    </QtUic>
+    <QtUic Include="ExitAppTipsDlg.ui">
+      <Filter>System Settings</Filter>
+    </QtUic>
+    <QtUic Include="TipsDlg.ui">
+      <Filter>Common component</Filter>
+    </QtUic>
+    <QtUic Include="BroadcastReminderDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="OffcastStatisticsDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="UpdateTipsDlg.ui">
+      <Filter>System Settings</Filter>
+    </QtUic>
+    <QtUic Include="CUniversalSW.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AudioControlWindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CustomLoopButton.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="PlayMediaLitItem.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AddImageSourceDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AddTextSourceDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AddFullScreenSourceDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AddCaptureSourceDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AddMediaSourceDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AddLiveSourceDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AddCameraSourceDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CLiveContentSelectPromptDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CUniversalPromptDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="DialogButtonBottom.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="FeedbackDlg.ui">
+      <Filter>System Settings</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="TQLive.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <QtRcc Include="obs.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TQLive.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="TQLive.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="MaterialListWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="CustomMaterialButton.h">
+      <Filter>Common component</Filter>
+    </CustomBuild>
+    <CustomBuild Include="UserConfig.h">
+      <Filter>Utils</Filter>
+    </CustomBuild>
+    <CustomBuild Include="CustomUnderLineButton.ui">
+      <Filter>Common component</Filter>
+    </CustomBuild>
+    <CustomBuild Include="CustomUnderLineButton.h">
+      <Filter>Common component</Filter>
+    </CustomBuild>
+    <CustomBuild Include="window-basic-main.hpp">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="visibility-pushbutton.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="source-tree.hpp">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

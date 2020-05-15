@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B12702AD-ABFB-343A-A199-8E24837244A3}</ProjectGuid>
+    <Keyword>Qt4VSv1.0</Keyword>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <PropertyGroup Condition="'$(QtMsBuild)'=='' or !Exists('$(QtMsBuild)\qt.targets')">
+    <QtMsBuild>$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\bin\32bit\</OutDir>
+    <IntDir>$(Configuration)\bin\32bit\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') or !Exists('$(QtMsBuild)\qt.props')">
+    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />
+  </Target>
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt.props')">
+    <Import Project="$(QtMsBuild)\qt.props" />
+  </ImportGroup>
+  <ImportGroup Label="ExtensionSettings" />
+  <ImportGroup Label="Shared" />
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <PreprocessorDefinitions>UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL="libobs-opengl.dll";DL_D3D11="libobs-d3d11.dll";QT_SVG_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>.\ImSDK\includes;.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Optimization>Disabled</Optimization>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderOutputFile>$(IntDir)$(TargetName).pch</PrecompiledHeaderOutputFile>
+      <ForcedIncludeFiles>%(ForcedIncludeFiles)</ForcedIncludeFiles>
+      <DisableSpecificWarnings>4819</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>$(OutDir)\$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>.\ImSDK\lib\Debug;.\lib;$(QTDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>qtmaind.lib;Qt5Cored.lib;Qt5Guid.lib;Qt5Widgetsd.lib;Qt5Networkd.lib;Qt5Sqld.lib;obs.lib;controller.lib;libcurl.lib;obs-frontend-api.lib;avcodec.lib;avutil.lib;avformat.lib;blake2.lib;jansson_d.lib;crypt32.lib;Qt5Svgd.lib;imsdk.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions>/SAFESEH:NO %(AdditionalOptions)</AdditionalOptions>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+    </Link>
+    <QtMoc>
+      <OutputFile>.\GeneratedFiles\$(ConfigurationName)\moc_%(Filename).cpp</OutputFile>
+      <ExecutionDescription>Moc'ing %(Identity)...</ExecutionDescription>
+      <IncludePath>.\ImSDK\includes;.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg;%(AdditionalIncludeDirectories)</IncludePath>
+      <Define>UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL="libobs-opengl.dll";DL_D3D11="libobs-d3d11.dll";QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <ForceInclude>stdafx.h;../../%(Filename)%(Extension)</ForceInclude>
+    </QtMoc>
+    <QtUic>
+      <ExecutionDescription>Uic'ing %(Identity)...</ExecutionDescription>
+      <OutputFile>.\GeneratedFiles\ui_%(Filename).h</OutputFile>
+    </QtUic>
+    <QtRcc>
+      <ExecutionDescription>Rcc'ing %(Identity)...</ExecutionDescription>
+      <OutputFile>.\GeneratedFiles\qrc_%(Filename).cpp</OutputFile>
+    </QtRcc>
+    <PreBuildEvent>
+      <Command>xcopy /E /Y "$(ProjectDir)ImSDK\lib\Debug" "$(OutDir)"</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <PreprocessorDefinitions>UNICODE;WIN32;WIN64;QT_DLL;QT_NO_DEBUG;NDEBUG;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;QT_SVG_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DebugInformationFormat />
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderOutputFile>$(IntDir)$(TargetName).pch</PrecompiledHeaderOutputFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>$(OutDir)\$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>$(QTDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <AdditionalDependencies>qtmain.lib;Qt5Core.lib;Qt5Gui.lib;Qt5Widgets.lib;Qt5Network.lib;Qt5Sql.lib;Qt5Svg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <QtMoc>
+      <OutputFile>.\GeneratedFiles\$(ConfigurationName)\moc_%(Filename).cpp</OutputFile>
+      <ExecutionDescription>Moc'ing %(Identity)...</ExecutionDescription>
+      <IncludePath>.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg;%(AdditionalIncludeDirectories)</IncludePath>
+      <Define>UNICODE;WIN32;WIN64;QT_DLL;QT_NO_DEBUG;NDEBUG;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <ForceInclude>stdafx.h;../../%(Filename)%(Extension)</ForceInclude>
+    </QtMoc>
+    <QtUic>
+      <ExecutionDescription>Uic'ing %(Identity)...</ExecutionDescription>
+      <OutputFile>.\GeneratedFiles\ui_%(Filename).h</OutputFile>
+    </QtUic>
+    <QtRcc>
+      <ExecutionDescription>Rcc'ing %(Identity)...</ExecutionDescription>
+      <OutputFile>.\GeneratedFiles\qrc_%(Filename).cpp</OutputFile>
+    </QtRcc>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="adv-audio-control.cpp" />
+    <ClCompile Include="api-interface.cpp" />
+    <ClCompile Include="audio-encoders.cpp" />
+    <ClCompile Include="auth-base.cpp" />
+    <ClCompile Include="CCustomButton.cpp" />
+    <ClCompile Include="CCustomHeadBar.cpp" />
+    <ClCompile Include="CCustomTextEdit.cpp" />
+    <ClCompile Include="CIMMainDlg.cpp" />
+    <ClCompile Include="CInfoDlg.cpp" />
+    <ClCompile Include="CLoginDlg.cpp" />
+    <ClCompile Include="CMainPanel.cpp" />
+    <ClCompile Include="crash-report.cpp" />
+    <ClCompile Include="CTQLiveWindow.cpp" />
+    <ClCompile Include="double-slider.cpp" />
+    <ClCompile Include="ff-util.c" />
+    <ClCompile Include="focus-list.cpp" />
+    <ClCompile Include="horizontal-scroll-area.cpp" />
+    <ClCompile Include="hotkey-edit.cpp" />
+    <ClCompile Include="item-widget-helpers.cpp" />
+    <ClCompile Include="json11.cpp" />
+    <ClCompile Include="locked-checkbox.cpp" />
+    <ClCompile Include="menu-button.cpp" />
+    <ClCompile Include="nonstandard_qtextdocumentlayout.cpp" />
+    <ClCompile Include="obs-app.cpp" />
+    <ClCompile Include="platform-windows.cpp" />
+    <ClCompile Include="properties-view.cpp" />
+    <ClCompile Include="qt-display.cpp" />
+    <ClCompile Include="qt-wrappers.cpp" />
+    <ClCompile Include="remote-text.cpp" />
+    <ClCompile Include="slider-absoluteset-style.cpp" />
+    <ClCompile Include="source-label.cpp" />
+    <ClCompile Include="source-list-widget.cpp" />
+    <ClCompile Include="source-tree.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="update-window.cpp" />
+    <ClCompile Include="vertical-scroll-area.cpp" />
+    <ClCompile Include="visibility-checkbox.cpp" />
+    <ClCompile Include="visibility-item-widget.cpp" />
+    <ClCompile Include="volume-control.cpp" />
+    <ClCompile Include="win-update-helpers.cpp" />
+    <ClCompile Include="win-update.cpp" />
+    <ClCompile Include="window-basic-about.cpp" />
+    <ClCompile Include="window-basic-adv-audio.cpp" />
+    <ClCompile Include="window-basic-auto-config-test.cpp" />
+    <ClCompile Include="window-basic-auto-config.cpp" />
+    <ClCompile Include="window-basic-filters.cpp" />
+    <ClCompile Include="window-basic-interaction.cpp" />
+    <ClCompile Include="window-basic-main-browser.cpp" />
+    <ClCompile Include="window-basic-main-dropfiles.cpp" />
+    <ClCompile Include="window-basic-main-outputs.cpp" />
+    <ClCompile Include="window-basic-main-profiles.cpp" />
+    <ClCompile Include="window-basic-main-scene-collections.cpp" />
+    <ClCompile Include="window-basic-main-transitions.cpp" />
+    <ClCompile Include="window-basic-main.cpp" />
+    <ClCompile Include="window-basic-preview.cpp" />
+    <ClCompile Include="window-basic-properties.cpp" />
+    <ClCompile Include="window-basic-settings-stream.cpp" />
+    <ClCompile Include="window-basic-settings.cpp" />
+    <ClCompile Include="window-basic-source-select.cpp" />
+    <ClCompile Include="window-basic-stats.cpp" />
+    <ClCompile Include="window-basic-status-bar.cpp" />
+    <ClCompile Include="window-basic-transform.cpp" />
+    <ClCompile Include="window-dock.cpp" />
+    <ClCompile Include="window-log-reply.cpp" />
+    <ClCompile Include="window-namedialog.cpp" />
+    <ClCompile Include="window-projector.cpp" />
+    <ClCompile Include="window-remux.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="CIMMainDlg.h">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <QtMoc Include="CInfoDlg.h">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <QtMoc Include="CMainPanel.h">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <QtMoc Include="CCustomButton.h">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <QtMoc Include="CCustomHeadBar.h">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <QtMoc Include="CCustomTextEdit.h">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <ClInclude Include="ff-util.h" />
+    <ClInclude Include="item-widget-helpers.hpp" />
+    <QtMoc Include="nonstandard_qtextdocumentlayout_p.h">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\ImSDK\includes;.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <ClInclude Include="platform.hpp" />
+    <ClInclude Include="qt-wrappers.hpp" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="slider-absoluteset-style.hpp" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="ui-config.h" />
+    <QtMoc Include="update-window.hpp" />
+    <QtMoc Include="win-update.hpp" />
+    <ClInclude Include="win-update-helpers.hpp" />
+    <ClInclude Include="window-basic-main-outputs.hpp" />
+    <QtMoc Include="window-remux.hpp" />
+    <QtMoc Include="window-projector.hpp" />
+    <QtMoc Include="window-namedialog.hpp" />
+    <QtMoc Include="window-main.hpp" />
+    <QtMoc Include="window-log-reply.hpp" />
+    <QtMoc Include="window-dock.hpp" />
+    <QtMoc Include="window-basic-transform.hpp" />
+    <QtMoc Include="window-basic-status-bar.hpp" />
+    <QtMoc Include="window-basic-stats.hpp" />
+    <QtMoc Include="window-basic-source-select.hpp" />
+    <QtMoc Include="window-basic-settings.hpp" />
+    <QtMoc Include="window-basic-properties.hpp" />
+    <QtMoc Include="window-basic-preview.hpp" />
+    <QtMoc Include="window-basic-main.hpp" />
+    <QtMoc Include="window-basic-interaction.hpp" />
+    <QtMoc Include="window-basic-filters.hpp" />
+    <QtMoc Include="window-basic-auto-config.hpp" />
+    <QtMoc Include="window-basic-adv-audio.hpp" />
+    <QtMoc Include="window-basic-about.hpp" />
+    <QtMoc Include="volume-control.hpp" />
+    <QtMoc Include="visibility-item-widget.hpp" />
+    <QtMoc Include="visibility-checkbox.hpp" />
+    <QtMoc Include="vertical-scroll-area.hpp" />
+    <QtMoc Include="source-tree.hpp">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <QtMoc Include="source-list-widget.hpp" />
+    <QtMoc Include="source-label.hpp" />
+    <QtMoc Include="remote-text.hpp" />
+    <QtMoc Include="qt-display.hpp" />
+    <QtMoc Include="properties-view.moc.hpp">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <QtMoc Include="properties-view.hpp">
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.\include\json11;.\include\obs-frontend-api;.\include;.\libff;.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+      <Define Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">UNICODE;WIN32;WIN64;QT_DLL;QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB;QT_NETWORK_LIB;QT_SQL_LIB;DL_OPENGL=libobs-opengl.dll;DL_D3D11=libobs-d3d11.dll;QT_SVG_LIB;%(PreprocessorDefinitions)</Define>
+      <IncludePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.\GeneratedFiles;.;$(QTDIR)\include;.\GeneratedFiles\$(ConfigurationName);$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtSvg</IncludePath>
+    </QtMoc>
+    <QtMoc Include="obs-app.hpp" />
+    <QtMoc Include="mute-checkbox.hpp" />
+    <QtMoc Include="menu-button.hpp" />
+    <QtMoc Include="locked-checkbox.hpp" />
+    <QtMoc Include="hotkey-edit.hpp" />
+    <QtMoc Include="horizontal-scroll-area.hpp" />
+    <QtMoc Include="adv-audio-control.hpp" />
+    <ClInclude Include="audio-encoders.hpp" />
+    <QtMoc Include="auth-base.hpp" />
+    <QtMoc Include="balance-slider.hpp" />
+    <QtMoc Include="clickable-label.hpp" />
+    <QtMoc Include="crash-report.hpp" />
+    <QtMoc Include="CLoginDlg.h" />
+    <QtMoc Include="CTQLiveWindow.h" />
+    <ClInclude Include="display-helpers.hpp" />
+    <QtMoc Include="double-slider.hpp" />
+    <QtMoc Include="expand-checkbox.hpp" />
+    <QtMoc Include="focus-list.hpp" />
+    <ClInclude Include="GeneratedFiles\ui_CLoginDlg.h" />
+    <ClInclude Include="GeneratedFiles\ui_CTQLiveWindow.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="AutoConfigStartPage.ui" />
+    <QtUic Include="AutoConfigStreamPage.ui" />
+    <QtUic Include="AutoConfigTestPage.ui" />
+    <QtUic Include="AutoConfigVideoPage.ui" />
+    <QtUic Include="CIMMainDlg.ui" />
+    <QtUic Include="CInfoDlg.ui" />
+    <QtUic Include="CLoginDlg.ui" />
+    <QtUic Include="CMainPanel.ui" />
+    <QtUic Include="ColorSelect.ui" />
+    <QtUic Include="CTQLiveWindow.ui" />
+    <QtUic Include="NameDialog.ui" />
+    <QtUic Include="OBSAbout.ui" />
+    <QtUic Include="OBSBasic.ui" />
+    <QtUic Include="OBSBasicFilters.ui" />
+    <QtUic Include="OBSBasicInteraction.ui" />
+    <QtUic Include="OBSBasicSettings.ui" />
+    <QtUic Include="OBSBasicSourceSelect.ui" />
+    <QtUic Include="OBSBasicTransform.ui" />
+    <QtUic Include="OBSLogReply.ui" />
+    <QtUic Include="OBSRemux.ui" />
+    <QtUic Include="OBSUpdate.ui" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="obs.qrc" />
+    <QtRcc Include="TQLive.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TQLive.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
+    <Import Project="$(QtMsBuild)\qt.targets" />
+  </ImportGroup>
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties MocDir=".\GeneratedFiles\$(ConfigurationName)" UicDir=".\GeneratedFiles" RccDir=".\GeneratedFiles" lupdateOptions="" lupdateOnBuild="0" lreleaseOptions="" Qt5Version_x0020_Win32="5.8.0" MocOptions="" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

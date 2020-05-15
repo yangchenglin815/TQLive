@@ -1,0 +1,1245 @@
+*******[13:10:15:187 id:0x000043f4]login client start. user:15268581191
+*******[13:10:16:917 id:0x000043f4]login client end. errorCode:4003 errorDesc:登录名或密码错误！
+*******[13:10:33:351 id:0x000043f4]login client start. user:15268581191
+*******[13:10:33:684 id:0x000043f4]login client end. errorCode:200 errorDesc:OK
+*******[13:13:07:987 id:0x00001860]login client start. user:15268581191
+*******[13:13:09:844 id:0x00001860]login client end. errorCode:200 errorDesc:OK
+*******[13:21:35:110 id:0x00003248]login client start. user:15268581191
+*******[13:21:36:883 id:0x00003248]login client end. errorCode:200 errorDesc:OK
+*******[13:22:33:662 id:0x00000478]login client start. user:15268581191
+*******[13:22:35:402 id:0x00000478]login client end. errorCode:200 errorDesc:OK
+*******[16:42:35:272 id:0x000046f0]login client start. user:15268581191
+*******[16:42:37:181 id:0x000046f0]login client end. errorCode:200 errorDesc:OK
+*******[15:08:29:959 id:0x000038b4]login client start. user:15268581191
+*******[15:08:31:775 id:0x000038b4]login client end. errorCode:200 errorDesc:OK
+*******[15:09:33:784 id:0x000022fc]login client start. user:15268581191
+*******[15:09:35:472 id:0x000022fc]login client end. errorCode:200 errorDesc:OK
+*******[15:13:27:196 id:0x0000209c]login client start. user:15268581191
+*******[15:13:28:894 id:0x0000209c]login client end. errorCode:200 errorDesc:OK
+*******[09:58:53:877 id:0x00000b8c]login client start. user:15268581191
+*******[09:58:55:722 id:0x00000b8c]login client end. errorCode:200 errorDesc:OK
+*******[10:01:50:332 id:0x0000269c]login client start. user:15268581191
+*******[10:01:52:63 id:0x0000269c]login client end. errorCode:200 errorDesc:OK
+*******[10:03:34:502 id:0x00003eb4]login client start. user:15268581191
+*******[10:03:36:250 id:0x00003eb4]login client end. errorCode:200 errorDesc:OK
+*******[10:07:21:684 id:0x00003bbc]login client start. user:15268581191
+*******[10:07:23:396 id:0x00003bbc]login client end. errorCode:200 errorDesc:OK
+*******[10:23:45:45 id:0x00003d04]login client start. user:15268581191
+*******[10:23:46:759 id:0x00003d04]login client end. errorCode:200 errorDesc:OK
+*******[09:14:03:455 id:0x00001654]login client start. user:15268581191
+*******[09:14:05:582 id:0x00001654]login client end. errorCode:200 errorDesc:OK
+*******[09:16:14:742 id:0x000036b8]login client start. user:15268581191
+*******[09:16:16:542 id:0x000036b8]login client end. errorCode:200 errorDesc:OK
+*******[11:37:11:512 id:0x00001ee4]login client start. user:15268581191
+*******[11:37:13:468 id:0x00001ee4]login client end. errorCode:200 errorDesc:OK
+*******[12:50:55:499 id:0x00002434]login client start. user:15268581191
+*******[12:51:05:523 id:0x00002434]login client end. errorCode:5 errorDesc:Operation canceled
+*******[09:11:44:725 id:0x00001a28]login client start. user:15268581191
+*******[09:11:46:659 id:0x00001a28]login client end. errorCode:200 errorDesc:OK
+*******[09:13:43:445 id:0x00001a28]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[09:13:43:542 id:0x00001a28]acquire live push address end. errorCode:200 errorDesc:
+*******[09:14:56:260 id:0x00001a28]quit live start.
+*******[09:14:56:828 id:0x00001a28]quit live end. errorCode:200 errorDesc:
+*******[09:14:56:837 id:0x00001a28]acquire live statistical information start.
+*******[09:14:56:908 id:0x00001a28]acquire live statistical information end. liveDuration:00:01:11
+*******[09:18:16:986 id:0x00000598]login client start. user:15268581191
+*******[09:18:18:697 id:0x00000598]login client end. errorCode:200 errorDesc:OK
+*******[15:20:59:541 id:0x00003808]login client start. user:15268581191
+*******[15:21:01:304 id:0x00003808]login client end. errorCode:200 errorDesc:OK
+*******[16:20:16:201 id:0x00003adc]login client start. user:15268581191
+*******[16:20:17:985 id:0x00003adc]login client end. errorCode:200 errorDesc:OK
+*******[16:35:23:946 id:0x00002cec]login client start. user:15268581191
+*******[16:35:25:790 id:0x00002cec]login client end. errorCode:200 errorDesc:OK
+*******[16:40:43:439 id:0x00000d44]login client start. user:15268581191
+*******[16:40:45:210 id:0x00000d44]login client end. errorCode:200 errorDesc:OK
+*******[17:08:52:700 id:0x00003b94]login client start. user:15268581191
+*******[17:08:54:463 id:0x00003b94]login client end. errorCode:200 errorDesc:OK
+*******[17:16:18:913 id:0x000025b4]login client start. user:15268581191
+*******[17:16:20:662 id:0x000025b4]login client end. errorCode:200 errorDesc:OK
+*******[17:19:02:328 id:0x000044c0]login client start. user:15268581191
+*******[17:19:04:67 id:0x000044c0]login client end. errorCode:200 errorDesc:OK
+*******[17:21:02:127 id:0x00000a3c]login client start. user:15268581191
+*******[17:21:03:904 id:0x00000a3c]login client end. errorCode:200 errorDesc:OK
+*******[17:21:51:511 id:0x0000260c]login client start. user:15268581191
+*******[17:21:53:245 id:0x0000260c]login client end. errorCode:200 errorDesc:OK
+*******[17:22:55:406 id:0x000034e4]login client start. user:15268581191
+*******[17:22:57:155 id:0x000034e4]login client end. errorCode:200 errorDesc:OK
+*******[17:32:41:915 id:0x000005a0]login client start. user:15268581191
+*******[17:32:43:644 id:0x000005a0]login client end. errorCode:200 errorDesc:OK
+*******[17:34:23:914 id:0x00001580]login client start. user:15268581191
+*******[17:34:25:660 id:0x00001580]login client end. errorCode:200 errorDesc:OK
+*******[18:01:09:816 id:0x00004ad0]login client start. user:15268581191
+*******[18:01:11:558 id:0x00004ad0]login client end. errorCode:200 errorDesc:OK
+*******[09:17:53:372 id:0x00002690]login client start. user:15268581191
+*******[09:17:55:264 id:0x00002690]login client end. errorCode:200 errorDesc:OK
+*******[09:21:57:330 id:0x00004a5c]login client start. user:15268581191
+*******[09:21:59:34 id:0x00004a5c]login client end. errorCode:200 errorDesc:OK
+*******[09:23:13:763 id:0x0000137c]login client start. user:15268581191
+*******[09:23:15:439 id:0x0000137c]login client end. errorCode:200 errorDesc:OK
+*******[09:31:34:662 id:0x00001510]login client start. user:15268581191
+*******[09:31:36:369 id:0x00001510]login client end. errorCode:200 errorDesc:OK
+*******[09:38:41:04 id:0x00003170]login client start. user:15268581191
+*******[09:38:42:703 id:0x00003170]login client end. errorCode:200 errorDesc:OK
+*******[09:39:26:924 id:0x000029bc]login client start. user:15268581191
+*******[09:39:28:635 id:0x000029bc]login client end. errorCode:200 errorDesc:OK
+*******[09:57:25:101 id:0x00004bd8]login client start. user:15268581191
+*******[09:57:26:832 id:0x00004bd8]login client end. errorCode:200 errorDesc:OK
+*******[09:59:16:204 id:0x00001070]login client start. user:15268581191
+*******[09:59:17:949 id:0x00001070]login client end. errorCode:200 errorDesc:OK
+*******[10:00:49:475 id:0x00003b1c]login client start. user:15268581191
+*******[10:00:51:170 id:0x00003b1c]login client end. errorCode:200 errorDesc:OK
+*******[10:10:59:734 id:0x00002790]login client start. user:15268581191
+*******[10:11:01:463 id:0x00002790]login client end. errorCode:200 errorDesc:OK
+*******[10:15:02:670 id:0x00001c44]login client start. user:15268581191
+*******[10:15:04:394 id:0x00001c44]login client end. errorCode:200 errorDesc:OK
+*******[10:32:40:182 id:0x000031bc]login client start. user:15268581191
+*******[10:32:41:953 id:0x000031bc]login client end. errorCode:200 errorDesc:OK
+*******[10:34:33:134 id:0x000038b0]login client start. user:15268581191
+*******[10:34:34:901 id:0x000038b0]login client end. errorCode:200 errorDesc:OK
+*******[10:42:42:235 id:0x00002f3c]login client start. user:15268581191
+*******[10:42:44:01 id:0x00002f3c]login client end. errorCode:200 errorDesc:OK
+*******[10:43:40:338 id:0x00004598]login client start. user:15268581191
+*******[10:43:42:107 id:0x00004598]login client end. errorCode:200 errorDesc:OK
+*******[10:47:07:897 id:0x00003924]login client start. user:15268581191
+*******[10:47:09:619 id:0x00003924]login client end. errorCode:200 errorDesc:OK
+*******[10:50:50:207 id:0x00003c38]login client start. user:15268581191
+*******[10:50:51:955 id:0x00003c38]login client end. errorCode:200 errorDesc:OK
+*******[10:53:46:342 id:0x00001d10]login client start. user:15268581191
+*******[10:53:48:124 id:0x00001d10]login client end. errorCode:200 errorDesc:OK
+*******[10:55:33:270 id:0x00001968]login client start. user:15268581191
+*******[10:55:35:29 id:0x00001968]login client end. errorCode:200 errorDesc:OK
+*******[11:05:31:955 id:0x00000360]login client start. user:15268581191
+*******[11:05:33:740 id:0x00000360]login client end. errorCode:200 errorDesc:OK
+*******[11:07:06:169 id:0x000022b8]login client start. user:15268581191
+*******[11:07:07:941 id:0x000022b8]login client end. errorCode:200 errorDesc:OK
+*******[11:10:18:648 id:0x00003b8c]login client start. user:15268581191
+*******[11:10:20:403 id:0x00003b8c]login client end. errorCode:200 errorDesc:OK
+*******[11:15:50:854 id:0x000037ec]login client start. user:15268581191
+*******[11:15:53:110 id:0x000037ec]login client end. errorCode:200 errorDesc:OK
+*******[11:38:44:76 id:0x000048cc]login client start. user:15268581191
+*******[11:38:45:859 id:0x000048cc]login client end. errorCode:200 errorDesc:OK
+*******[11:38:54:953 id:0x000048cc]Add camera to sourceList: 摄像头1
+*******[11:39:13:476 id:0x000048cc]Del camera to sourceList: 摄像头1
+*******[11:42:18:884 id:0x00002bc0]login client start. user:15268581191
+*******[11:42:20:648 id:0x00002bc0]login client end. errorCode:200 errorDesc:OK
+*******[11:42:28:343 id:0x00002bc0]Add camera to sourceList: 摄像头1
+*******[11:43:06:552 id:0x00002bc0]Add camera to sourceList: 摄像头2
+*******[11:43:09:347 id:0x00002bc0]Add camera to sourceList: 摄像头3
+*******[11:43:11:283 id:0x00002bc0]Add camera to sourceList: 摄像头4
+*******[11:43:14:45 id:0x00002bc0]SourceList index: -1 camera name: 鎽勫儚澶?
+*******[11:43:14:46 id:0x00002bc0]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:43:14:46 id:0x00002bc0]SourceList index: 1 camera name: 鎽勫儚澶?
+*******[11:43:14:47 id:0x00002bc0]SourceList index: 2 camera name: 鎽勫儚澶?
+*******[11:43:14:48 id:0x00002bc0]Set source of camera: 鎽勫儚澶?
+*******[11:43:27:268 id:0x00002bc0]Del camera to sourceList: 鎽勫儚澶?
+*******[11:43:42:548 id:0x00002bc0]Del camera to sourceList: 鎽勫儚澶?
+*******[11:43:48:843 id:0x00002bc0]Del camera to sourceList: 鎽勫儚澶?
+*******[11:43:53:548 id:0x00002bc0]SourceList index: -1 camera name: 鎽勫儚澶?
+*******[11:43:53:549 id:0x00002bc0]Set source of camera: 鎽勫儚澶?
+*******[11:43:58:620 id:0x00002bc0]Del camera to sourceList: 鎽勫儚澶?
+*******[13:35:59:808 id:0x00000a38]login client start. user:15268581191
+*******[13:36:01:561 id:0x00000a38]login client end. errorCode:200 errorDesc:OK
+*******[13:40:16:952 id:0x000041f8]login client start. user:15268581191
+*******[13:40:18:722 id:0x000041f8]login client end. errorCode:200 errorDesc:OK
+*******[13:44:24:188 id:0x00002cbc]login client start. user:15268581191
+*******[13:44:25:997 id:0x00002cbc]login client end. errorCode:200 errorDesc:OK
+*******[13:47:39:811 id:0x00003d08]login client start. user:15268581191
+*******[13:47:41:640 id:0x00003d08]login client end. errorCode:200 errorDesc:OK
+*******[13:49:47:58 id:0x00004670]login client start. user:15268581191
+*******[13:49:48:862 id:0x00004670]login client end. errorCode:200 errorDesc:OK
+*******[13:54:50:881 id:0x00004a5c]login client start. user:15268581191
+*******[13:54:52:648 id:0x00004a5c]login client end. errorCode:200 errorDesc:OK
+*******[14:13:09:449 id:0x000017c8]login client start. user:15268581191
+*******[14:13:11:235 id:0x000017c8]login client end. errorCode:200 errorDesc:OK
+*******[14:13:42:296 id:0x000017c8]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[14:13:42:443 id:0x000017c8]acquire live push address end. errorCode:200 errorDesc:
+*******[14:13:51:596 id:0x000017c8]quit live start.
+*******[14:13:52:126 id:0x000017c8]quit live end. errorCode:200 errorDesc:
+*******[14:13:52:128 id:0x000017c8]acquire live statistical information start.
+*******[14:13:52:199 id:0x000017c8]acquire live statistical information end. liveDuration:00:00:05
+*******[14:14:08:201 id:0x000017c8]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[14:14:08:308 id:0x000017c8]acquire live push address end. errorCode:200 errorDesc:
+*******[14:14:23:785 id:0x000017c8]quit live start.
+*******[14:14:24:155 id:0x000017c8]quit live end. errorCode:200 errorDesc:
+*******[14:14:24:156 id:0x000017c8]acquire live statistical information start.
+*******[14:14:24:216 id:0x000017c8]acquire live statistical information end. liveDuration:00:00:09
+*******[14:48:34:459 id:0x00002328]login client start. user:15268581191
+*******[14:48:36:236 id:0x00002328]login client end. errorCode:200 errorDesc:OK
+*******[14:48:49:969 id:0x00002328]Init camera to sourceList: 鎽勫儚澶?
+*******[14:49:04:579 id:0x00002328]Del camera to sourceList: 鎽勫儚澶?
+*******[14:49:05:829 id:0x00002328]Init camera to sourceList: 鎽勫儚澶?
+*******[14:49:43:667 id:0x00002328]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:49:43:668 id:0x00002328]Set source of camera: 鎽勫儚澶?
+*******[14:50:05:738 id:0x00002328]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:50:05:739 id:0x00002328]Set source of camera: 鎽勫儚澶?
+*******[14:50:31:891 id:0x00002328]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:50:31:892 id:0x00002328]Set source of camera: 鎽勫儚澶?
+*******[14:50:49:994 id:0x00002328]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:50:49:995 id:0x00002328]Set source of camera: 鎽勫儚澶?
+*******[14:54:38:163 id:0x00004b10]login client start. user:15268581191
+*******[14:54:39:925 id:0x00004b10]login client end. errorCode:200 errorDesc:OK
+*******[14:54:43:25 id:0x00004b10]Add camera to sourceList: 鎽勫儚澶?
+*******[14:54:56:616 id:0x00004b10]Del camera to sourceList: 鎽勫儚澶?
+*******[14:54:58:394 id:0x00004b10]Init camera to sourceList: 鎽勫儚澶?
+*******[14:55:34:968 id:0x00004b10]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:55:34:969 id:0x00004b10]Set source of camera: 鎽勫儚澶?
+*******[14:56:21:64 id:0x00004b10]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:56:21:65 id:0x00004b10]Set source of camera: 鎽勫儚澶?
+*******[15:05:18:516 id:0x00004750]login client start. user:15268581191
+*******[15:05:20:276 id:0x00004750]login client end. errorCode:200 errorDesc:OK
+*******[15:05:23:381 id:0x00004750]Add camera to sourceList: 鎽勫儚澶?
+*******[15:05:26:438 id:0x00004750]Del camera to sourceList: 鎽勫儚澶?
+*******[15:05:28:142 id:0x00004750]Init camera to sourceList: 鎽勫儚澶?
+*******[15:05:36:556 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:05:36:557 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:05:44:20 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:05:44:21 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:05:50:246 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:05:50:247 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:05:57:181 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:05:57:182 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:06:01:717 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:06:01:718 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:06:08:919 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:06:08:920 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:06:13:852 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:06:13:853 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:06:27:14 id:0x00004750]Del camera to sourceList: 鎽勫儚澶?
+*******[15:06:29:424 id:0x00004750]Init camera to sourceList: 鎽勫儚澶?
+*******[15:06:38:739 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:06:38:740 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:06:42:13 id:0x00004750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:06:42:14 id:0x00004750]Set source of camera: 鎽勫儚澶?
+*******[15:09:34:291 id:0x00001684]login client start. user:15268581191
+*******[15:09:36:79 id:0x00001684]login client end. errorCode:200 errorDesc:OK
+*******[15:09:39:225 id:0x00001684]Add camera to sourceList: 鎽勫儚澶?
+*******[15:09:44:938 id:0x00001684]Del camera to sourceList: 鎽勫儚澶?
+*******[15:09:46:503 id:0x00001684]Init camera to sourceList: 鎽勫儚澶?
+*******[15:09:54:537 id:0x00001684]Del camera to sourceList: 鎽勫儚澶?
+*******[15:09:56:97 id:0x00001684]Init camera to sourceList: 鎽勫儚澶?
+*******[15:10:00:771 id:0x00001684]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:10:00:772 id:0x00001684]Set source of camera: 鎽勫儚澶?
+*******[15:10:04:787 id:0x00001684]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:10:04:788 id:0x00001684]Set source of camera: 鎽勫儚澶?
+*******[15:10:36:587 id:0x00001684]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:10:36:589 id:0x00001684]Set source of camera: 鎽勫儚澶?
+*******[15:10:43:802 id:0x00001684]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:10:43:803 id:0x00001684]Set source of camera: 鎽勫儚澶?
+*******[15:12:22:522 id:0x00001780]login client start. user:15268581191
+*******[15:12:24:289 id:0x00001780]login client end. errorCode:200 errorDesc:OK
+*******[15:12:27:479 id:0x00001780]Add camera to sourceList: 鎽勫儚澶?
+*******[15:12:30:475 id:0x00001780]Del camera to sourceList: 鎽勫儚澶?
+*******[15:12:31:986 id:0x00001780]Init camera to sourceList: 鎽勫儚澶?
+*******[15:12:41:51 id:0x00001780]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:12:41:52 id:0x00001780]Set source of camera: 鎽勫儚澶?
+*******[15:12:45:211 id:0x00001780]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:12:45:212 id:0x00001780]Set source of camera: 鎽勫儚澶?
+*******[15:14:01:577 id:0x00001bd4]login client start. user:15268581191
+*******[15:14:03:326 id:0x00001bd4]login client end. errorCode:200 errorDesc:OK
+*******[15:14:06:413 id:0x00001bd4]Add camera to sourceList: 鎽勫儚澶?
+*******[15:14:09:746 id:0x00001bd4]Del camera to sourceList: 鎽勫儚澶?
+*******[15:14:11:518 id:0x00001bd4]Init camera to sourceList: 鎽勫儚澶?
+*******[15:14:19:361 id:0x00001bd4]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:14:19:362 id:0x00001bd4]Set source of camera: 鎽勫儚澶?
+*******[15:14:23:907 id:0x00001bd4]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:14:23:908 id:0x00001bd4]Set source of camera: 鎽勫儚澶?
+*******[15:14:28:833 id:0x00001bd4]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:14:28:834 id:0x00001bd4]Set source of camera: 鎽勫儚澶?
+*******[15:14:52:473 id:0x00002c6c]login client start. user:15268581191
+*******[15:14:54:238 id:0x00002c6c]login client end. errorCode:200 errorDesc:OK
+*******[15:14:57:356 id:0x00002c6c]Add camera to sourceList: 鎽勫儚澶?
+*******[15:35:40:848 id:0x00004bdc]login client start. user:15268581191
+*******[15:35:42:662 id:0x00004bdc]login client end. errorCode:200 errorDesc:OK
+*******[15:35:46:784 id:0x00004bdc]Add camera to sourceList: 鎽勫儚澶?
+*******[15:35:49:697 id:0x00004bdc]Del camera to sourceList: 鎽勫儚澶?
+*******[15:35:51:268 id:0x00004bdc]Init camera to sourceList: 鎽勫儚澶?
+*******[15:35:58:401 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:35:58:402 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:36:07:25 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:36:07:26 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:36:15:570 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:36:15:571 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:36:22:401 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:36:22:402 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:36:29:944 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:36:29:945 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:36:47:992 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:36:47:994 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:36:57:298 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:36:57:299 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:37:00:880 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:37:00:881 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:37:14:248 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:37:14:249 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:37:21:328 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:37:21:329 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:38:50:218 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:38:50:219 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:38:56:654 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:38:56:655 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:39:06:663 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:39:06:664 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:40:49:639 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:40:49:640 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:40:52:984 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:40:52:985 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:41:00:303 id:0x00004bdc]Del camera to sourceList: 鎽勫儚澶?
+*******[15:41:02:207 id:0x00004bdc]Init camera to sourceList: 鎽勫儚澶?
+*******[15:41:03:534 id:0x00004bdc]Del camera to sourceList: 鎽勫儚澶?
+*******[15:41:05:126 id:0x00004bdc]Init camera to sourceList: 鎽勫儚澶?
+*******[15:41:11:38 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:41:11:39 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:42:07:742 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:42:07:743 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:43:16:479 id:0x00004bdc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:43:16:480 id:0x00004bdc]Set source of camera: 鎽勫儚澶?
+*******[15:43:55:608 id:0x00004bdc]Del camera to sourceList: 鎽勫儚澶?
+*******[15:54:01:09 id:0x000006c0]login client start. user:15268581191
+*******[15:54:02:768 id:0x000006c0]login client end. errorCode:200 errorDesc:OK
+*******[15:54:10:905 id:0x000006c0]Init camera to sourceList: 鎽勫儚澶?
+*******[15:54:39:842 id:0x000006c0]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:54:39:843 id:0x000006c0]Set source of camera: 鎽勫儚澶?
+*******[15:55:02:18 id:0x000006c0]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:55:02:19 id:0x000006c0]Set source of camera: 鎽勫儚澶?
+*******[16:00:39:86 id:0x00003a10]login client start. user:15268581191
+*******[16:00:40:884 id:0x00003a10]login client end. errorCode:200 errorDesc:OK
+*******[16:00:43:993 id:0x00003a10]Add camera to sourceList: 鎽勫儚澶?
+*******[16:00:47:391 id:0x00003a10]Del camera to sourceList: 鎽勫儚澶?
+*******[16:00:48:909 id:0x00003a10]Init camera to sourceList: 鎽勫儚澶?
+*******[16:01:28:63 id:0x00003a10]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:01:28:64 id:0x00003a10]Set source of camera: 鎽勫儚澶?
+*******[16:02:05:958 id:0x00003a10]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:02:05:959 id:0x00003a10]Set source of camera: 鎽勫儚澶?
+*******[16:05:43:36 id:0x00001450]login client start. user:15268581191
+*******[16:05:44:794 id:0x00001450]login client end. errorCode:200 errorDesc:OK
+*******[16:05:47:930 id:0x00001450]Add camera to sourceList: 鎽勫儚澶?
+*******[16:05:51:69 id:0x00001450]Del camera to sourceList: 鎽勫儚澶?
+*******[16:05:53:893 id:0x00001450]Init camera to sourceList: 鎽勫儚澶?
+*******[16:06:09:78 id:0x00001450]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:06:09:80 id:0x00001450]Set source of camera: 鎽勫儚澶?
+*******[16:06:22:454 id:0x00001450]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:06:22:455 id:0x00001450]Set source of camera: 鎽勫儚澶?
+*******[16:06:34:301 id:0x00001450]Del camera to sourceList: 鎽勫儚澶?
+*******[17:17:29:65 id:0x00000d9c]login client start. user:15268581191
+*******[17:17:30:914 id:0x00000d9c]login client end. errorCode:200 errorDesc:OK
+*******[17:17:35:105 id:0x00000d9c]Add camera to sourceList: 鎽勫儚澶?
+*******[17:17:39:704 id:0x00000d9c]Del camera to sourceList: 鎽勫儚澶?
+*******[17:18:54:976 id:0x000031dc]login client start. user:15268581191
+*******[17:18:56:763 id:0x000031dc]login client end. errorCode:200 errorDesc:OK
+*******[17:20:48:632 id:0x00001260]login client start. user:15268581191
+*******[17:20:50:402 id:0x00001260]login client end. errorCode:200 errorDesc:OK
+*******[17:21:25:951 id:0x00001f64]login client start. user:15268581191
+*******[17:21:27:757 id:0x00001f64]login client end. errorCode:200 errorDesc:OK
+*******[17:29:27:812 id:0x00002b04]login client start. user:15268581191
+*******[17:29:29:596 id:0x00002b04]login client end. errorCode:200 errorDesc:OK
+*******[17:31:41:515 id:0x00001a80]login client start. user:15268581191
+*******[17:31:43:281 id:0x00001a80]login client end. errorCode:200 errorDesc:OK
+*******[17:31:49:547 id:0x00001a80]Init camera to sourceList: 鎽勫儚澶?
+*******[17:32:11:323 id:0x00001a80]Del camera to sourceList: 鎽勫儚澶?
+*******[17:32:14:287 id:0x00001a80]Init video to sourceList: 瑙嗛1
+*******[17:32:22:12 id:0x00001a80]Del video to sourceList: 瑙嗛1
+*******[09:27:25:994 id:0x00003c6c]login client start. user:15268581191
+*******[09:27:27:812 id:0x00003c6c]login client end. errorCode:200 errorDesc:OK
+*******[09:27:51:229 id:0x00003c6c]Init video to sourceList: 瑙嗛1
+*******[09:28:00:235 id:0x00003c6c]Init video to sourceList: 瑙嗛2
+*******[09:28:11:593 id:0x00003c6c]SourceList index: 0 video name: 瑙嗛1
+*******[09:28:11:595 id:0x00003c6c]SourceList index: 1 video name: 瑙嗛2
+*******[09:28:11:595 id:0x00003c6c]Set source of video: 瑙嗛2
+*******[09:37:19:622 id:0x000024a0]login client start. user:15268581191
+*******[09:37:21:417 id:0x000024a0]login client end. errorCode:200 errorDesc:OK
+*******[09:37:24:397 id:0x000024a0]Add video to sourceList: 瑙嗛2
+*******[09:37:24:418 id:0x000024a0]Add video to sourceList: 瑙嗛1
+*******[09:38:05:574 id:0x000024a0]SourceList index: 0 video name: 瑙嗛2
+*******[09:38:05:576 id:0x000024a0]SourceList index: 1 video name: 瑙嗛1
+*******[09:38:05:576 id:0x000024a0]Set source of video: 瑙嗛1
+*******[09:38:11:845 id:0x000024a0]SourceList index: 0 video name: 瑙嗛2
+*******[09:38:11:847 id:0x000024a0]Set source of video: 瑙嗛2
+*******[09:38:15:981 id:0x000024a0]SourceList index: 0 video name: 瑙嗛2
+*******[09:38:15:983 id:0x000024a0]SourceList index: 1 video name: 瑙嗛1
+*******[09:38:15:983 id:0x000024a0]Set source of video: 瑙嗛1
+*******[09:44:04:699 id:0x00002824]login client start. user:15268581191
+*******[09:44:06:436 id:0x00002824]login client end. errorCode:200 errorDesc:OK
+*******[09:44:09:570 id:0x00002824]Add video to sourceList: 瑙嗛2
+*******[09:44:09:591 id:0x00002824]Add video to sourceList: 瑙嗛1
+*******[09:44:23:163 id:0x00002824]SourceList index: 0 video name: 瑙嗛2
+*******[09:44:23:164 id:0x00002824]Set source of video: 瑙嗛2
+*******[09:44:28:452 id:0x00002824]SourceList index: 0 video name: 瑙嗛2
+*******[09:44:28:453 id:0x00002824]Set source of video: 瑙嗛2
+*******[09:46:44:363 id:0x000034a4]login client start. user:15268581191
+*******[09:46:46:100 id:0x000034a4]login client end. errorCode:200 errorDesc:OK
+*******[09:46:49:146 id:0x000034a4]Add video to sourceList: 瑙嗛2
+*******[09:46:49:172 id:0x000034a4]Add video to sourceList: 瑙嗛1
+*******[09:46:53:243 id:0x000034a4]SourceList index: 0 video name: 瑙嗛2
+*******[09:46:53:244 id:0x000034a4]Set source of video: 瑙嗛2
+*******[09:46:59:83 id:0x000034a4]SourceList index: 0 video name: 瑙嗛2
+*******[09:46:59:84 id:0x000034a4]SourceList index: 1 video name: 瑙嗛1
+*******[09:46:59:85 id:0x000034a4]Set source of video: 瑙嗛1
+*******[10:22:08:804 id:0x0000284c]login client start. user:15268581191
+*******[10:22:10:606 id:0x0000284c]login client end. errorCode:200 errorDesc:OK
+*******[10:22:13:480 id:0x0000284c]Add video to sourceList: 瑙嗛1
+*******[10:22:16:589 id:0x0000284c]SourceList index: 0 video name: 瑙嗛1
+*******[10:22:16:590 id:0x0000284c]Set source of video: 瑙嗛1
+*******[10:26:23:851 id:0x00001764]login client start. user:15268581191
+*******[10:26:25:632 id:0x00001764]login client end. errorCode:200 errorDesc:OK
+*******[10:26:28:441 id:0x00001764]Add video to sourceList: 瑙嗛1
+*******[10:27:02:187 id:0x00003388]login client start. user:15268581191
+*******[10:27:03:954 id:0x00003388]login client end. errorCode:200 errorDesc:OK
+*******[10:27:06:804 id:0x00003388]Add video to sourceList: 瑙嗛1
+*******[11:25:19:612 id:0x00004a5c]login client start. user:15268581191
+*******[11:25:21:383 id:0x00004a5c]login client end. errorCode:200 errorDesc:OK
+*******[11:25:24:274 id:0x00004a5c]Add video to sourceList: 瑙嗛1
+*******[11:25:27:876 id:0x00004a5c]SourceList index: 0 video name: 瑙嗛1
+*******[11:25:27:877 id:0x00004a5c]Set source of video: 瑙嗛1
+*******[11:25:54:564 id:0x00004a5c]SourceList index: 0 video name: 瑙嗛1
+*******[11:25:54:566 id:0x00004a5c]Set source of video: 瑙嗛1
+*******[11:26:16:783 id:0x00004a5c]SourceList index: 0 video name: 瑙嗛1
+*******[11:26:16:784 id:0x00004a5c]Set source of video: 瑙嗛1
+*******[11:27:22:352 id:0x00004a5c]SourceList index: 0 video name: 瑙嗛1
+*******[11:27:22:353 id:0x00004a5c]Set source of video: 瑙嗛1
+*******[11:30:30:705 id:0x0000387c]login client start. user:15268581191
+*******[11:30:32:535 id:0x0000387c]login client end. errorCode:200 errorDesc:OK
+*******[11:30:35:408 id:0x0000387c]Add video to sourceList: 瑙嗛1
+*******[11:45:59:564 id:0x000043b0]login client start. user:15268581191
+*******[11:46:01:342 id:0x000043b0]login client end. errorCode:200 errorDesc:OK
+*******[11:46:04:236 id:0x000043b0]Add video to sourceList: 瑙嗛1
+*******[11:46:08:300 id:0x000043b0]SourceList index: 0 video name: 瑙嗛1
+*******[11:46:08:302 id:0x000043b0]Set source of video: 瑙嗛1
+*******[11:52:00:418 id:0x000043b0]SourceList index: 0 video name: 瑙嗛1
+*******[11:52:00:419 id:0x000043b0]Set source of video: 瑙嗛1
+*******[11:53:10:267 id:0x00001ab8]login client start. user:15268581191
+*******[11:53:12:56 id:0x00001ab8]login client end. errorCode:200 errorDesc:OK
+*******[11:53:14:961 id:0x00001ab8]Add video to sourceList: 瑙嗛1
+*******[11:53:23:601 id:0x00001ab8]acquire live push address start. categoryID:3 matchID:45 scheduleData:0
+*******[11:53:23:724 id:0x00001ab8]acquire live push address end. errorCode:200 errorDesc:
+*******[11:54:59:456 id:0x00001ab8]SourceList index: 0 video name: 瑙嗛1
+*******[11:54:59:457 id:0x00001ab8]Set source of video: 瑙嗛1
+*******[12:25:30:63 id:0x00001ab8]SourceList index: 0 video name: 瑙嗛1
+*******[12:25:30:64 id:0x00001ab8]Set source of video: 瑙嗛1
+*******[12:46:53:236 id:0x00001ab8]SourceList index: 0 video name: 瑙嗛1
+*******[12:46:53:238 id:0x00001ab8]Set source of video: 瑙嗛1
+*******[13:34:14:370 id:0x00001ab8]SourceList index: 0 video name: 瑙嗛1
+*******[13:34:14:371 id:0x00001ab8]Set source of video: 瑙嗛1
+*******[13:44:28:751 id:0x000008a0]login client start. user:15268581191
+*******[13:44:30:516 id:0x000008a0]login client end. errorCode:200 errorDesc:OK
+*******[13:44:33:521 id:0x000008a0]Add video to sourceList: 瑙嗛1
+*******[13:45:36:126 id:0x000008a0]Del video to sourceList: 瑙嗛1
+*******[13:52:18:954 id:0x0000081c]login client start. user:15268581191
+*******[13:52:20:731 id:0x0000081c]login client end. errorCode:200 errorDesc:OK
+*******[13:52:28:548 id:0x0000081c]Init camera to sourceList: 鎽勫儚澶?
+*******[14:12:52:986 id:0x00001934]login client start. user:15268581191
+*******[14:12:54:815 id:0x00001934]login client end. errorCode:200 errorDesc:OK
+*******[14:12:57:935 id:0x00001934]Add camera to sourceList: 鎽勫儚澶?
+*******[14:20:40:487 id:0x00001c40]login client start. user:15268581191
+*******[14:20:42:326 id:0x00001c40]login client end. errorCode:200 errorDesc:OK
+*******[14:20:45:442 id:0x00001c40]Add camera to sourceList: 鎽勫儚澶?
+*******[14:32:03:523 id:0x00003adc]login client start. user:15268581191
+*******[14:32:05:297 id:0x00003adc]login client end. errorCode:200 errorDesc:OK
+*******[14:32:08:544 id:0x00003adc]Add camera to sourceList: 鎽勫儚澶?
+*******[14:38:50:24 id:0x00002ac4]login client start. user:15268581191
+*******[14:38:51:813 id:0x00002ac4]login client end. errorCode:200 errorDesc:OK
+*******[10:01:30:247 id:0x00002c0c]login client start. user:15268581191
+*******[10:01:32:366 id:0x00002c0c]login client end. errorCode:200 errorDesc:OK
+*******[10:01:37:07 id:0x00002c0c]Add camera to sourceList: 瑙嗛鎹曡幏璁惧
+*******[10:01:41:727 id:0x00002c0c]Del camera to sourceList: 瑙嗛鎹曡幏璁惧
+*******[10:01:43:617 id:0x00002c0c]Init camera to sourceList: 鎽勫儚澶?
+*******[10:07:38:645 id:0x000022e8]login client start. user:15268581191
+*******[10:07:40:504 id:0x000022e8]login client end. errorCode:200 errorDesc:OK
+*******[10:07:46:923 id:0x000022e8]Init camera to sourceList: 鎽勫儚澶?
+*******[10:09:21:915 id:0x00001004]login client start. user:15268581191
+*******[10:09:23:764 id:0x00001004]login client end. errorCode:200 errorDesc:OK
+*******[10:09:26:969 id:0x00001004]Add camera to sourceList: 鎽勫儚澶?
+*******[10:09:30:356 id:0x00001004]Del camera to sourceList: 鎽勫儚澶?
+*******[10:09:32:306 id:0x00001004]Init camera to sourceList: 鎽勫儚澶?
+*******[10:10:17:627 id:0x00001004]Del camera to sourceList: 鎽勫儚澶?
+*******[10:11:10:64 id:0x0000351c]login client start. user:15268581191
+*******[10:11:11:900 id:0x0000351c]login client end. errorCode:200 errorDesc:OK
+*******[10:11:19:16 id:0x0000351c]Init camera to sourceList: 鎽勫儚澶?
+*******[10:11:22:470 id:0x0000351c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:11:22:474 id:0x0000351c]Set source of camera: 鎽勫儚澶?
+*******[10:14:01:674 id:0x000021f4]login client start. user:15268581191
+*******[10:14:03:528 id:0x000021f4]login client end. errorCode:200 errorDesc:OK
+*******[10:14:06:762 id:0x000021f4]Add camera to sourceList: 鎽勫儚澶?
+*******[10:14:11:10 id:0x000021f4]Del camera to sourceList: 鎽勫儚澶?
+*******[10:14:13:71 id:0x000021f4]Init camera to sourceList: 鎽勫儚澶?
+*******[10:14:19:802 id:0x000021f4]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:14:19:803 id:0x000021f4]Set source of camera: 鎽勫儚澶?
+*******[10:14:37:634 id:0x000021f4]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:14:37:635 id:0x000021f4]Set source of camera: 鎽勫儚澶?
+*******[10:15:17:689 id:0x00002aa0]login client start. user:15268581191
+*******[10:15:19:501 id:0x00002aa0]login client end. errorCode:200 errorDesc:OK
+*******[10:15:22:849 id:0x00002aa0]Add camera to sourceList: 鎽勫儚澶?
+*******[10:15:27:113 id:0x00002aa0]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:15:27:114 id:0x00002aa0]Set source of camera: 鎽勫儚澶?
+*******[10:16:00:946 id:0x00002aa0]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:16:00:947 id:0x00002aa0]Set source of camera: 鎽勫儚澶?
+*******[10:17:06:593 id:0x00004134]login client start. user:15268581191
+*******[10:17:08:451 id:0x00004134]login client end. errorCode:200 errorDesc:OK
+*******[10:17:11:616 id:0x00004134]Add camera to sourceList: 鎽勫儚澶?
+*******[10:17:16:644 id:0x00004134]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:17:16:645 id:0x00004134]Set source of camera: 鎽勫儚澶?
+*******[10:17:27:833 id:0x00004134]Del camera to sourceList: 鎽勫儚澶?
+*******[10:17:29:837 id:0x00004134]Init camera to sourceList: 鎽勫儚澶?
+*******[10:17:51:177 id:0x0000072c]login client start. user:15268581191
+*******[10:17:53:27 id:0x0000072c]login client end. errorCode:200 errorDesc:OK
+*******[10:17:56:286 id:0x0000072c]Add camera to sourceList: 鎽勫儚澶?
+*******[10:18:05:722 id:0x0000072c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:18:05:724 id:0x0000072c]Set source of camera: 鎽勫儚澶?
+*******[10:18:33:209 id:0x0000072c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:18:33:210 id:0x0000072c]Set source of camera: 鎽勫儚澶?
+*******[10:18:44:681 id:0x0000072c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:18:44:682 id:0x0000072c]Set source of camera: 鎽勫儚澶?
+*******[10:18:51:89 id:0x0000072c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:18:51:90 id:0x0000072c]Set source of camera: 鎽勫儚澶?
+*******[10:18:55:281 id:0x0000072c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:18:55:283 id:0x0000072c]Set source of camera: 鎽勫儚澶?
+*******[10:19:27:856 id:0x000020f0]login client start. user:15268581191
+*******[10:19:29:697 id:0x000020f0]login client end. errorCode:200 errorDesc:OK
+*******[10:20:02:297 id:0x000020f0]Add camera to sourceList: 鎽勫儚澶?
+*******[10:20:07:240 id:0x000020f0]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:20:07:241 id:0x000020f0]Set source of camera: 鎽勫儚澶?
+*******[10:20:52:695 id:0x000020f0]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:20:52:696 id:0x000020f0]Set source of camera: 鎽勫儚澶?
+*******[10:21:08:511 id:0x00002460]login client start. user:15268581191
+*******[10:21:10:353 id:0x00002460]login client end. errorCode:200 errorDesc:OK
+*******[10:24:59:614 id:0x0000446c]login client start. user:15268581191
+*******[10:25:01:474 id:0x0000446c]login client end. errorCode:200 errorDesc:OK
+*******[10:25:04:754 id:0x0000446c]Add camera to sourceList: 鎽勫儚澶?
+*******[10:25:15:774 id:0x0000446c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:25:15:775 id:0x0000446c]Set source of camera: 鎽勫儚澶?
+*******[10:25:52:879 id:0x0000446c]Del camera to sourceList: 鎽勫儚澶?
+*******[10:26:07:54 id:0x0000446c]Init camera to sourceList: 鎽勫儚澶?
+*******[10:26:21:911 id:0x0000446c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:26:21:912 id:0x0000446c]Set source of camera: 鎽勫儚澶?
+*******[10:26:49:837 id:0x0000446c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:26:49:838 id:0x0000446c]Set source of camera: 鎽勫儚澶?
+*******[10:26:58:125 id:0x0000446c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:26:58:126 id:0x0000446c]Set source of camera: 鎽勫儚澶?
+*******[10:27:53:973 id:0x0000446c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:27:53:975 id:0x0000446c]Set source of camera: 鎽勫儚澶?
+*******[10:31:31:16 id:0x00002604]login client start. user:15268581191
+*******[10:31:32:924 id:0x00002604]login client end. errorCode:200 errorDesc:OK
+*******[10:31:36:181 id:0x00002604]Add camera to sourceList: 鎽勫儚澶?
+*******[10:31:45:539 id:0x00002604]Del camera to sourceList: 鎽勫儚澶?
+*******[10:31:47:476 id:0x00002604]Init camera to sourceList: 鎽勫儚澶?
+*******[10:33:03:707 id:0x00002604]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:33:03:708 id:0x00002604]Set source of camera: 鎽勫儚澶?
+*******[10:36:49:257 id:0x0000456c]login client start. user:15268581191
+*******[10:36:51:91 id:0x0000456c]login client end. errorCode:200 errorDesc:OK
+*******[10:36:54:259 id:0x0000456c]Add camera to sourceList: 鎽勫儚澶?
+*******[10:36:58:801 id:0x0000456c]Del camera to sourceList: 鎽勫儚澶?
+*******[10:37:00:635 id:0x0000456c]Init camera to sourceList: 鎽勫儚澶?
+*******[10:38:32:832 id:0x0000456c]Del camera to sourceList: 鎽勫儚澶?
+*******[10:38:34:712 id:0x0000456c]Init camera to sourceList: 鎽勫儚澶?
+*******[10:38:51:160 id:0x0000456c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:38:51:162 id:0x0000456c]Set source of camera: 鎽勫儚澶?
+*******[10:51:57:435 id:0x00000f44]login client start. user:15268581191
+*******[10:51:59:278 id:0x00000f44]login client end. errorCode:200 errorDesc:OK
+*******[10:52:05:956 id:0x00000f44]Init camera to sourceList: 鎽勫儚澶?
+*******[10:52:30:674 id:0x00000f44]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[10:52:30:676 id:0x00000f44]Set source of camera: 鎽勫儚澶?
+*******[11:00:38:152 id:0x00000714]login client start. user:15268581191
+*******[11:00:40:258 id:0x00000714]login client end. errorCode:200 errorDesc:OK
+*******[11:00:43:488 id:0x00000714]Add camera to sourceList: 鎽勫儚澶?
+*******[11:00:48:32 id:0x00000714]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:00:48:33 id:0x00000714]Set source of camera: 鎽勫儚澶?
+*******[11:01:14:368 id:0x00000714]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:01:14:369 id:0x00000714]Set source of camera: 鎽勫儚澶?
+*******[11:01:55:855 id:0x00003ddc]login client start. user:15268581191
+*******[11:01:57:787 id:0x00003ddc]login client end. errorCode:200 errorDesc:OK
+*******[11:02:01:35 id:0x00003ddc]Add camera to sourceList: 鎽勫儚澶?
+*******[11:02:05:135 id:0x00003ddc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:02:05:136 id:0x00003ddc]Set source of camera: 鎽勫儚澶?
+*******[11:04:21:691 id:0x00003160]login client start. user:15268581191
+*******[11:04:23:582 id:0x00003160]login client end. errorCode:200 errorDesc:OK
+*******[11:04:26:893 id:0x00003160]Add camera to sourceList: 鎽勫儚澶?
+*******[11:04:30:862 id:0x00003160]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:04:30:863 id:0x00003160]Set source of camera: 鎽勫儚澶?
+*******[11:07:34:133 id:0x000033e4]login client start. user:15268581191
+*******[11:07:35:972 id:0x000033e4]login client end. errorCode:200 errorDesc:OK
+*******[11:07:39:238 id:0x000033e4]Add camera to sourceList: 鎽勫儚澶?
+*******[11:07:43:110 id:0x000033e4]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:07:43:111 id:0x000033e4]Set source of camera: 鎽勫儚澶?
+*******[11:17:04:598 id:0x00003f04]login client start. user:15268581191
+*******[11:17:06:496 id:0x00003f04]login client end. errorCode:200 errorDesc:OK
+*******[11:17:09:832 id:0x00003f04]Add camera to sourceList: 鎽勫儚澶?
+*******[11:17:16:393 id:0x00003f04]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:17:16:394 id:0x00003f04]Set source of camera: 鎽勫儚澶?
+*******[11:18:49:433 id:0x0000360c]login client start. user:15268581191
+*******[11:18:51:408 id:0x0000360c]login client end. errorCode:200 errorDesc:OK
+*******[11:18:54:693 id:0x0000360c]Add camera to sourceList: 鎽勫儚澶?
+*******[11:18:58:497 id:0x0000360c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:18:58:498 id:0x0000360c]Set source of camera: 鎽勫儚澶?
+*******[11:19:37:456 id:0x00003084]login client start. user:15268581191
+*******[11:19:39:289 id:0x00003084]login client end. errorCode:200 errorDesc:OK
+*******[11:19:42:561 id:0x00003084]Add camera to sourceList: 鎽勫儚澶?
+*******[11:19:46:664 id:0x00003084]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:19:46:665 id:0x00003084]Set source of camera: 鎽勫儚澶?
+*******[11:20:38:983 id:0x00003e90]login client start. user:15268581191
+*******[11:20:40:871 id:0x00003e90]login client end. errorCode:200 errorDesc:OK
+*******[11:20:44:144 id:0x00003e90]Add camera to sourceList: 鎽勫儚澶?
+*******[11:20:48:496 id:0x00003e90]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:20:48:497 id:0x00003e90]Set source of camera: 鎽勫儚澶?
+*******[11:22:12:552 id:0x00003420]login client start. user:15268581191
+*******[11:22:14:410 id:0x00003420]login client end. errorCode:200 errorDesc:OK
+*******[11:22:17:676 id:0x00003420]Add camera to sourceList: 鎽勫儚澶?
+*******[11:22:21:575 id:0x00003420]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:22:21:576 id:0x00003420]Set source of camera: 鎽勫儚澶?
+*******[11:23:10:304 id:0x000010dc]login client start. user:15268581191
+*******[11:23:12:162 id:0x000010dc]login client end. errorCode:200 errorDesc:OK
+*******[11:23:15:411 id:0x000010dc]Add camera to sourceList: 鎽勫儚澶?
+*******[11:23:18:632 id:0x000010dc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:23:18:633 id:0x000010dc]Set source of camera: 鎽勫儚澶?
+*******[11:29:50:518 id:0x000046bc]login client start. user:15268581191
+*******[11:29:52:391 id:0x000046bc]login client end. errorCode:200 errorDesc:OK
+*******[11:29:59:111 id:0x000046bc]Add camera to sourceList: 鎽勫儚澶?
+*******[11:30:03:244 id:0x000046bc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:30:03:245 id:0x000046bc]Set source of camera: 鎽勫儚澶?
+*******[11:30:14:412 id:0x000046bc]Del camera to sourceList: 鎽勫儚澶?
+*******[11:30:19:166 id:0x000046bc]Init camera to sourceList: 鎽勫儚澶?
+*******[11:30:41:291 id:0x000046bc]Del camera to sourceList: 鎽勫儚澶?
+*******[11:30:45:198 id:0x000046bc]Init camera to sourceList: 鎽勫儚澶?
+*******[11:33:21:355 id:0x00004778]login client start. user:15268581191
+*******[11:33:23:202 id:0x00004778]login client end. errorCode:200 errorDesc:OK
+*******[11:33:26:437 id:0x00004778]Add camera to sourceList: 鎽勫儚澶?
+*******[11:33:29:907 id:0x00004778]Del camera to sourceList: 鎽勫儚澶?
+*******[11:33:31:601 id:0x00004778]Init camera to sourceList: 鎽勫儚澶?
+*******[11:35:09:328 id:0x00002710]login client start. user:15268581191
+*******[11:35:11:524 id:0x00002710]login client end. errorCode:200 errorDesc:OK
+*******[11:35:14:730 id:0x00002710]Add camera to sourceList: 鎽勫儚澶?
+*******[11:35:19:51 id:0x00002710]Del camera to sourceList: 鎽勫儚澶?
+*******[11:35:20:584 id:0x00002710]Init camera to sourceList: 鎽勫儚澶?
+*******[11:35:30:522 id:0x00002710]Del camera to sourceList: 鎽勫儚澶?
+*******[11:37:39:406 id:0x00002744]login client start. user:15268581191
+*******[11:37:41:264 id:0x00002744]login client end. errorCode:200 errorDesc:OK
+*******[11:37:55:440 id:0x00002744]Init camera to sourceList: 鎽勫儚澶?
+*******[11:38:38:697 id:0x00003944]login client start. user:15268581191
+*******[11:38:40:526 id:0x00003944]login client end. errorCode:200 errorDesc:OK
+*******[11:40:27:971 id:0x0000247c]login client start. user:15268581191
+*******[11:40:29:835 id:0x0000247c]login client end. errorCode:200 errorDesc:OK
+*******[11:40:50:541 id:0x0000247c]Add camera to sourceList: 鎽勫儚澶?
+*******[11:40:56:857 id:0x0000247c]Del camera to sourceList: 鎽勫儚澶?
+*******[11:40:58:571 id:0x0000247c]Init camera to sourceList: 鎽勫儚澶?
+*******[11:41:08:721 id:0x0000247c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:41:08:722 id:0x0000247c]Set source of camera: 鎽勫儚澶?
+*******[11:41:24:566 id:0x00001114]login client start. user:15268581191
+*******[11:41:26:479 id:0x00001114]login client end. errorCode:200 errorDesc:OK
+*******[11:41:29:770 id:0x00001114]Add camera to sourceList: 鎽勫儚澶?
+*******[11:41:32:954 id:0x00001114]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[11:41:32:955 id:0x00001114]Set source of camera: 鎽勫儚澶?
+*******[13:43:55:555 id:0x00003b14]login client start. user:15268581191
+*******[13:43:57:476 id:0x00003b14]login client end. errorCode:200 errorDesc:OK
+*******[13:44:01:689 id:0x00003b14]Add camera to sourceList: 鎽勫儚澶?
+*******[13:44:05:999 id:0x00003b14]Del camera to sourceList: 鎽勫儚澶?
+*******[13:44:07:470 id:0x00003b14]Init camera to sourceList: 鎽勫儚澶?
+*******[13:44:18:803 id:0x00003b14]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[13:44:18:804 id:0x00003b14]Set source of camera: 鎽勫儚澶?
+*******[13:44:43:166 id:0x00000114]login client start. user:15268581191
+*******[13:44:45:79 id:0x00000114]login client end. errorCode:200 errorDesc:OK
+*******[13:44:48:313 id:0x00000114]Add camera to sourceList: 鎽勫儚澶?
+*******[13:44:56:452 id:0x00000114]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[13:44:56:453 id:0x00000114]Set source of camera: 鎽勫儚澶?
+*******[13:45:08:348 id:0x00000114]Del camera to sourceList: 鎽勫儚澶?
+*******[13:47:14:81 id:0x00003598]login client start. user:15268581191
+*******[13:47:15:915 id:0x00003598]login client end. errorCode:200 errorDesc:OK
+*******[13:48:27:425 id:0x00004bd4]login client start. user:15268581191
+*******[13:48:29:291 id:0x00004bd4]login client end. errorCode:200 errorDesc:OK
+*******[13:48:35:984 id:0x00004bd4]Init camera to sourceList: 鎽勫儚澶?
+*******[13:48:48:929 id:0x00004bd4]Del camera to sourceList: 鎽勫儚澶?
+*******[13:49:16:804 id:0x00004bd4]Init camera to sourceList: 鎽勫儚澶?
+*******[13:49:37:217 id:0x00004bd4]Del camera to sourceList: 鎽勫儚澶?
+*******[13:49:41:784 id:0x00004bd4]Init camera to sourceList: 鎽勫儚澶?
+*******[13:51:30:105 id:0x00002bfc]login client start. user:15268581191
+*******[13:51:31:931 id:0x00002bfc]login client end. errorCode:200 errorDesc:OK
+*******[13:51:42:508 id:0x00002bfc]Add camera to sourceList: 鎽勫儚澶?
+*******[13:51:48:890 id:0x00002bfc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[13:51:48:891 id:0x00002bfc]Set source of camera: 鎽勫儚澶?
+*******[13:52:28:928 id:0x00002bfc]Del camera to sourceList: 鎽勫儚澶?
+*******[13:54:57:89 id:0x00004a00]login client start. user:15268581191
+*******[13:54:58:897 id:0x00004a00]login client end. errorCode:200 errorDesc:OK
+*******[13:55:22:320 id:0x00004a00]Init camera to sourceList: 鎽勫儚澶?
+*******[13:56:21:365 id:0x00004a00]Del camera to sourceList: 鎽勫儚澶?
+*******[14:09:01:27 id:0x00001e44]login client start. user:15268581191
+*******[14:09:02:922 id:0x00001e44]login client end. errorCode:200 errorDesc:OK
+*******[14:10:37:640 id:0x00003a38]login client start. user:15268581191
+*******[14:10:39:494 id:0x00003a38]login client end. errorCode:200 errorDesc:OK
+*******[14:11:22:818 id:0x00003a38]Init camera to sourceList: 鎽勫儚澶?
+*******[14:12:00:197 id:0x00003c7c]login client start. user:15268581191
+*******[14:12:02:103 id:0x00003c7c]login client end. errorCode:200 errorDesc:OK
+*******[14:12:11:244 id:0x00003c7c]Add camera to sourceList: 鎽勫儚澶?
+*******[14:12:14:248 id:0x00003c7c]Del camera to sourceList: 鎽勫儚澶?
+*******[14:12:28:522 id:0x00003c7c]Init camera to sourceList: 鎽勫儚澶?
+*******[14:12:54:983 id:0x00003c7c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:12:54:984 id:0x00003c7c]Set source of camera: 鎽勫儚澶?
+*******[14:13:14:96 id:0x00002b00]login client start. user:15268581191
+*******[14:13:15:934 id:0x00002b00]login client end. errorCode:200 errorDesc:OK
+*******[14:13:31:587 id:0x00002b00]Add camera to sourceList: 鎽勫儚澶?
+*******[14:13:43:265 id:0x00002b00]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:13:43:267 id:0x00002b00]Set source of camera: 鎽勫儚澶?
+*******[14:15:23:390 id:0x00000c4c]login client start. user:15268581191
+*******[14:15:25:248 id:0x00000c4c]login client end. errorCode:200 errorDesc:OK
+*******[14:15:32:906 id:0x00000c4c]Add camera to sourceList: 鎽勫儚澶?
+*******[14:15:35:903 id:0x00000c4c]Del camera to sourceList: 鎽勫儚澶?
+*******[14:15:53:996 id:0x00000c4c]Init camera to sourceList: 鎽勫儚澶?
+*******[14:16:05:966 id:0x00000c4c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:16:05:967 id:0x00000c4c]Set source of camera: 鎽勫儚澶?
+*******[14:16:14:126 id:0x00000c4c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:16:14:127 id:0x00000c4c]Set source of camera: 鎽勫儚澶?
+*******[14:16:31:512 id:0x00003ba8]login client start. user:15268581191
+*******[14:16:33:414 id:0x00003ba8]login client end. errorCode:200 errorDesc:OK
+*******[14:16:44:946 id:0x00003ba8]Add camera to sourceList: 鎽勫儚澶?
+*******[14:16:49:222 id:0x00003ba8]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:16:49:223 id:0x00003ba8]Set source of camera: 鎽勫儚澶?
+*******[14:17:18:998 id:0x00003ba8]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:17:18:999 id:0x00003ba8]Set source of camera: 鎽勫儚澶?
+*******[14:17:24:358 id:0x00003ba8]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:17:24:359 id:0x00003ba8]Set source of camera: 鎽勫儚澶?
+*******[14:17:49:430 id:0x00000750]login client start. user:15268581191
+*******[14:17:51:315 id:0x00000750]login client end. errorCode:200 errorDesc:OK
+*******[14:17:59:325 id:0x00000750]Add camera to sourceList: 鎽勫儚澶?
+*******[14:18:04:54 id:0x00000750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:18:04:55 id:0x00000750]Set source of camera: 鎽勫儚澶?
+*******[14:18:21:709 id:0x00000750]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:18:21:710 id:0x00000750]Set source of camera: 鎽勫儚澶?
+*******[14:18:36:613 id:0x00002568]login client start. user:15268581191
+*******[14:18:38:479 id:0x00002568]login client end. errorCode:200 errorDesc:OK
+*******[14:18:46:899 id:0x00002568]Add camera to sourceList: 鎽勫儚澶?
+*******[14:18:51:15 id:0x00002568]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:18:51:16 id:0x00002568]Set source of camera: 鎽勫儚澶?
+*******[14:19:02:725 id:0x00002568]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:19:02:727 id:0x00002568]Set source of camera: 鎽勫儚澶?
+*******[14:19:11:557 id:0x00002568]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:19:11:558 id:0x00002568]Set source of camera: 鎽勫儚澶?
+*******[14:19:17:677 id:0x00002568]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:19:17:678 id:0x00002568]Set source of camera: 鎽勫儚澶?
+*******[14:19:21:829 id:0x00002568]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:19:21:830 id:0x00002568]Set source of camera: 鎽勫儚澶?
+*******[14:19:43:563 id:0x00003a20]login client start. user:15268581191
+*******[14:19:43:849 id:0x00003a20]login client start. user:15268581191
+*******[14:19:45:480 id:0x00003a20]login client end. errorCode:200 errorDesc:OK
+*******[14:19:48:766 id:0x00003a20]Add camera to sourceList: 鎽勫儚澶?
+*******[14:19:49:109 id:0x00003a20]login client end. errorCode:200 errorDesc:OK
+*******[14:19:52:124 id:0x00003a20]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[14:19:52:126 id:0x00003a20]Set source of camera: 鎽勫儚澶?
+*******[15:56:32:671 id:0x00002868]login client start. user:15268581191
+*******[15:56:34:535 id:0x00002868]login client end. errorCode:200 errorDesc:OK
+*******[15:56:37:825 id:0x00002868]Add camera to sourceList: 鎽勫儚澶?
+*******[15:56:41:288 id:0x00002868]Del camera to sourceList: 鎽勫儚澶?
+*******[15:56:44:111 id:0x00002868]Init camera to sourceList: 鎽勫儚澶?
+*******[15:57:53:808 id:0x00002868]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:57:53:809 id:0x00002868]Set source of camera: 鎽勫儚澶?
+*******[15:58:14:558 id:0x000019fc]login client start. user:15268581191
+*******[15:58:16:435 id:0x000019fc]login client end. errorCode:200 errorDesc:OK
+*******[15:58:19:749 id:0x000019fc]Add camera to sourceList: 鎽勫儚澶?
+*******[15:58:26:174 id:0x000019fc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:58:26:175 id:0x000019fc]Set source of camera: 鎽勫儚澶?
+*******[15:59:25:390 id:0x000019fc]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[15:59:25:391 id:0x000019fc]Set source of camera: 鎽勫儚澶?
+*******[15:59:35:06 id:0x000019fc]Del camera to sourceList: 鎽勫儚澶?
+*******[15:59:37:299 id:0x000019fc]Init camera to sourceList: 鎽勫儚澶?
+*******[16:06:10:935 id:0x00004918]login client start. user:15268581191
+*******[16:06:12:817 id:0x00004918]login client end. errorCode:200 errorDesc:OK
+*******[16:06:16:147 id:0x00004918]Add camera to sourceList: 鎽勫儚澶?
+*******[16:06:19:459 id:0x00004918]Del camera to sourceList: 鎽勫儚澶?
+*******[16:06:21:175 id:0x00004918]Init camera to sourceList: 鎽勫儚澶?
+*******[16:06:46:171 id:0x00004918]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:06:46:172 id:0x00004918]Set source of camera: 鎽勫儚澶?
+*******[16:07:02:997 id:0x000016f8]login client start. user:15268581191
+*******[16:07:04:854 id:0x000016f8]login client end. errorCode:200 errorDesc:OK
+*******[16:07:08:124 id:0x000016f8]Add camera to sourceList: 鎽勫儚澶?
+*******[16:07:14:123 id:0x000016f8]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:07:14:124 id:0x000016f8]Set source of camera: 鎽勫儚澶?
+*******[16:07:30:555 id:0x000016f8]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:07:30:556 id:0x000016f8]Set source of camera: 鎽勫儚澶?
+*******[16:07:38:372 id:0x000016f8]Del camera to sourceList: 鎽勫儚澶?
+*******[16:14:56:80 id:0x00004a54]login client start. user:15268581191
+*******[16:14:57:986 id:0x00004a54]login client end. errorCode:200 errorDesc:OK
+*******[16:15:08:109 id:0x00004a54]Init camera to sourceList: 鎽勫儚澶?
+*******[16:15:36:959 id:0x00004a54]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:15:36:960 id:0x00004a54]Set source of camera: 鎽勫儚澶?
+*******[16:15:45:105 id:0x00004a54]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:15:45:106 id:0x00004a54]Set source of camera: 鎽勫儚澶?
+*******[16:16:08:519 id:0x0000474c]login client start. user:15268581191
+*******[16:16:10:392 id:0x0000474c]login client end. errorCode:200 errorDesc:OK
+*******[16:16:13:658 id:0x0000474c]Add camera to sourceList: 鎽勫儚澶?
+*******[16:16:17:567 id:0x0000474c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:16:17:569 id:0x0000474c]Set source of camera: 鎽勫儚澶?
+*******[16:16:31:543 id:0x0000474c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:16:31:544 id:0x0000474c]Set source of camera: 鎽勫儚澶?
+*******[16:16:47:872 id:0x0000474c]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[16:16:47:873 id:0x0000474c]Set source of camera: 鎽勫儚澶?
+*******[17:49:56:844 id:0x00002f10]login client start. user:15268581191
+*******[17:49:58:931 id:0x00002f10]login client end. errorCode:200 errorDesc:OK
+*******[17:50:02:234 id:0x00002f10]Add camera to sourceList: 鎽勫儚澶?
+*******[17:50:12:834 id:0x00002f10]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[17:50:12:835 id:0x00002f10]Set source of camera: 鎽勫儚澶?
+*******[17:50:23:555 id:0x00002f10]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[17:50:23:557 id:0x00002f10]Set source of camera: 鎽勫儚澶?
+*******[17:53:27:418 id:0x00002f10]SourceList index: 0 camera name: 鎽勫儚澶?
+*******[17:53:27:420 id:0x00002f10]Set source of camera: 鎽勫儚澶?
+*******[14:52:34:300 id:0x00003f10]login client start. user:15268581191
+*******[14:52:36:492 id:0x00003f10]login client end. errorCode:200 errorDesc:OK
+*******[14:52:51:859 id:0x00003f10]Init camera to sourceList: 鎽勫儚澶?
+*******[15:05:54:607 id:0x000031bc]login client start. user:15268581191
+*******[15:05:56:545 id:0x000031bc]login client end. errorCode:200 errorDesc:OK
+*******[15:06:00:61 id:0x000031bc]Add camera to sourceList: 鎽勫儚澶?
+*******[15:06:04:743 id:0x000031bc]SourceList index: 0 source name: 鎽勫儚澶?
+*******[15:06:04:745 id:0x000031bc]Set source of name: 鎽勫儚澶?
+*******[15:06:24:136 id:0x000031bc]SourceList index: 0 source name: 鍥剧墖1
+*******[15:06:24:138 id:0x000031bc]Set source of name: 鍥剧墖1
+*******[15:06:32:209 id:0x000031bc]SourceList index: 0 source name: 鍥剧墖1
+*******[15:06:32:211 id:0x000031bc]Set source of name: 鍥剧墖1
+*******[15:06:32:235 id:0x000031bc]SourceList index: 0 source name: 鏂囨湰1
+*******[15:06:35:248 id:0x000031bc]SourceList index: 0 source name: 鍥剧墖1
+*******[15:06:35:249 id:0x000031bc]SourceList index: 0 source name: 鏂囨湰1
+*******[15:06:35:250 id:0x000031bc]Set source of name: 鏂囨湰1
+*******[15:06:41:668 id:0x000031bc]Init video to sourceList: 瑙嗛1
+*******[15:06:52:351 id:0x000031bc]SourceList index: 0 source name: 瑙嗛1
+*******[15:06:52:353 id:0x000031bc]Set source of name: 瑙嗛1
+*******[15:06:54:548 id:0x000031bc]SourceList index: 0 source name: 鍥剧墖1
+*******[15:06:54:549 id:0x000031bc]SourceList index: 0 source name: 鏂囨湰1
+*******[15:06:54:550 id:0x000031bc]Set source of name: 鏂囨湰1
+*******[15:06:56:871 id:0x000031bc]SourceList index: 0 source name: 鍥剧墖1
+*******[15:06:56:872 id:0x000031bc]Set source of name: 鍥剧墖1
+*******[15:06:56:895 id:0x000031bc]SourceList index: 0 source name: 鏂囨湰1
+*******[15:10:30:277 id:0x000025e8]login client start. user:15268581191
+*******[15:10:32:180 id:0x000025e8]login client end. errorCode:200 errorDesc:OK
+*******[15:10:35:711 id:0x000025e8]Add video to sourceList: 瑙嗛1
+*******[15:10:36:41 id:0x000025e8]Add camera to sourceList: 鎽勫儚澶?
+*******[15:10:41:342 id:0x000025e8]SourceList index: 0 source name: 
+*******[15:10:41:343 id:0x000025e8]Set source of name: 瑙嗛1
+*******[15:10:43:950 id:0x000025e8]SourceList index: 0 source name: 
+*******[15:10:43:951 id:0x000025e8]SourceList index: 0 source name: 
+*******[15:10:43:952 id:0x000025e8]Set source of name: 鏂囨湰1
+*******[15:13:04:156 id:0x000029ec]login client start. user:15268581191
+*******[15:13:06:85 id:0x000029ec]login client end. errorCode:200 errorDesc:OK
+*******[15:13:09:569 id:0x000029ec]Add video to sourceList: 视频1
+*******[15:13:09:914 id:0x000029ec]Add camera to sourceList: 摄像头1
+*******[15:13:17:150 id:0x000029ec]SourceList index: 0 source name: 
+*******[15:13:17:152 id:0x000029ec]Set source of name: 摄像头1
+*******[15:13:21:173 id:0x000029ec]SourceList index: 0 source name: 
+*******[15:13:21:175 id:0x000029ec]Set source of name: 图片1
+*******[15:13:21:205 id:0x000029ec]SourceList index: 0 source name: 
+*******[15:14:33:532 id:0x000044ac]login client start. user:15268581191
+*******[15:14:35:461 id:0x000044ac]login client end. errorCode:200 errorDesc:OK
+*******[15:14:38:924 id:0x000044ac]Add video to sourceList: 视频1
+*******[15:14:39:276 id:0x000044ac]Add camera to sourceList: 摄像头1
+*******[15:14:45:773 id:0x000044ac]SourceList index: 0 source name: 
+*******[15:14:45:774 id:0x000044ac]Set source of name: 图片1
+*******[15:14:45:813 id:0x000044ac]SourceList index: 0 source name: 
+*******[15:14:49:165 id:0x000044ac]SourceList index: 0 source name: 
+*******[15:14:49:166 id:0x000044ac]SourceList index: 0 source name: 
+*******[15:14:49:166 id:0x000044ac]Set source of name: 文本1
+*******[15:14:51:316 id:0x000044ac]SourceList index: 0 source name: 
+*******[15:14:51:318 id:0x000044ac]Set source of name: 视频1
+*******[15:14:53:623 id:0x000044ac]SourceList index: 0 source name: 
+*******[15:14:53:624 id:0x000044ac]Set source of name: 摄像头1
+*******[15:16:57:979 id:0x000034f8]login client start. user:15268581191
+*******[15:16:59:988 id:0x000034f8]login client end. errorCode:200 errorDesc:OK
+*******[15:17:03:487 id:0x000034f8]Add video to sourceList: 视频1
+*******[15:17:03:832 id:0x000034f8]Add camera to sourceList: 摄像头1
+*******[15:17:24:213 id:0x000034f8]SourceList index: 0 source name: 
+*******[15:17:24:214 id:0x000034f8]Set source of name: 视频1
+*******[15:17:29:468 id:0x000034f8]SourceList index: 0 source name: 
+*******[15:17:29:469 id:0x000034f8]SourceList index: 0 source name: 
+*******[15:17:29:470 id:0x000034f8]Set source of name: 文本1
+*******[15:17:37:964 id:0x000034f8]SourceList index: 0 source name: 
+*******[15:17:37:965 id:0x000034f8]Set source of name: 图片1
+*******[15:17:37:995 id:0x000034f8]SourceList index: 0 source name: 
+*******[15:18:33:714 id:0x00001aa4]login client start. user:15268581191
+*******[15:18:35:654 id:0x00001aa4]login client end. errorCode:200 errorDesc:OK
+*******[15:18:39:235 id:0x00001aa4]Add video to sourceList: 视频1
+*******[15:18:39:603 id:0x00001aa4]Add camera to sourceList: 摄像头1
+*******[15:18:53:379 id:0x00001aa4]SourceList index: 0 source name: 视频1
+*******[15:18:53:380 id:0x00001aa4]Set source of name: 视频1
+*******[15:18:56:795 id:0x00001aa4]SourceList index: 0 source name: 图片1
+*******[15:18:56:796 id:0x00001aa4]SourceList index: 0 source name: 文本1
+*******[15:18:56:797 id:0x00001aa4]Set source of name: 文本1
+*******[15:19:00:699 id:0x00001aa4]SourceList index: 0 source name: 图片1
+*******[15:19:00:700 id:0x00001aa4]Set source of name: 图片1
+*******[15:19:00:732 id:0x00001aa4]SourceList index: 0 source name: 文本1
+*******[15:19:03:844 id:0x00001aa4]SourceList index: 0 source name: 摄像头1
+*******[15:19:03:845 id:0x00001aa4]Set source of name: 摄像头1
+*******[16:17:09:611 id:0x0000456c]login client start. user:15268581191
+*******[16:17:11:521 id:0x0000456c]login client end. errorCode:200 errorDesc:OK
+*******[16:17:15:111 id:0x0000456c]Add video to sourceList: 视频1
+*******[16:17:15:458 id:0x0000456c]Add camera to sourceList: 摄像头1
+*******[16:17:41:196 id:0x0000456c]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[16:17:41:293 id:0x0000456c]acquire live push address end. errorCode:200 errorDesc:
+*******[17:32:08:21 id:0x000049c0]login client start. user:15268581191
+*******[17:32:09:763 id:0x000049c0]login client end. errorCode:200 errorDesc:OK
+*******[17:32:12:906 id:0x000049c0]Add video to sourceList: 视频1
+*******[17:32:13:191 id:0x000049c0]Add camera to sourceList: 摄像头1
+*******[17:32:23:878 id:0x000049c0]acquire live push address start. categoryID:3 matchID:45 scheduleData:0
+*******[17:32:23:972 id:0x000049c0]acquire live push address end. errorCode:200 errorDesc:
+*******[17:32:52:480 id:0x000049c0]quit live start.
+*******[17:32:52:971 id:0x000049c0]quit live end. errorCode:200 errorDesc:
+*******[17:32:52:972 id:0x000049c0]acquire live statistical information start.
+*******[17:32:53:31 id:0x000049c0]acquire live statistical information end. liveDuration:00:00:26
+*******[09:51:40:283 id:0x000035d0]login client start. user:15268581191
+*******[09:51:42:177 id:0x000035d0]login client end. errorCode:200 errorDesc:OK
+*******[09:51:46:906 id:0x000035d0]Add video to sourceList: 视频1
+*******[09:51:47:234 id:0x000035d0]Add camera to sourceList: 摄像头1
+*******[09:51:52:762 id:0x000035d0]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[09:51:52:877 id:0x000035d0]acquire live push address end. errorCode:200 errorDesc:
+*******[09:53:06:610 id:0x000035d0]quit live start.
+*******[09:53:07:94 id:0x000035d0]quit live end. errorCode:200 errorDesc:
+*******[09:53:07:96 id:0x000035d0]acquire live statistical information start.
+*******[09:54:03:418 id:0x00000698]login client start. user:15268581191
+*******[09:54:05:173 id:0x00000698]login client end. errorCode:200 errorDesc:OK
+*******[09:54:08:140 id:0x00000698]Add video to sourceList: 视频1
+*******[09:54:08:396 id:0x00000698]Add camera to sourceList: 摄像头1
+*******[09:54:29:706 id:0x00000698]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[09:54:29:790 id:0x00000698]acquire live push address end. errorCode:200 errorDesc:
+*******[09:56:24:249 id:0x0000377c]login client start. user:15268581191
+*******[09:56:25:952 id:0x0000377c]login client end. errorCode:200 errorDesc:OK
+*******[09:56:28:915 id:0x0000377c]Add video to sourceList: 视频1
+*******[09:56:29:178 id:0x0000377c]Add camera to sourceList: 摄像头1
+*******[09:56:34:905 id:0x0000377c]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[09:56:34:993 id:0x0000377c]acquire live push address end. errorCode:200 errorDesc:
+*******[09:58:44:487 id:0x00003548]login client start. user:15268581191
+*******[09:58:46:157 id:0x00003548]login client end. errorCode:200 errorDesc:OK
+*******[09:58:49:242 id:0x00003548]Add video to sourceList: 视频1
+*******[09:58:49:526 id:0x00003548]Add camera to sourceList: 摄像头1
+*******[09:58:57:487 id:0x00003548]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[09:58:57:583 id:0x00003548]acquire live push address end. errorCode:200 errorDesc:
+*******[10:02:28:622 id:0x00000114]login client start. user:15268581191
+*******[10:02:30:336 id:0x00000114]login client end. errorCode:200 errorDesc:OK
+*******[10:02:33:318 id:0x00000114]Add video to sourceList: 视频1
+*******[10:02:33:582 id:0x00000114]Add camera to sourceList: 摄像头1
+*******[10:02:40:158 id:0x00000114]acquire live push address start. categoryID:3 matchID:17 scheduleData:0
+*******[10:02:40:259 id:0x00000114]acquire live push address end. errorCode:200 errorDesc:
+*******[10:05:57:61 id:0x00003770]login client start. user:15268581191
+*******[10:05:58:746 id:0x00003770]login client end. errorCode:200 errorDesc:OK
+*******[10:06:01:705 id:0x00003770]Add video to sourceList: 视频1
+*******[10:06:01:974 id:0x00003770]Add camera to sourceList: 摄像头1
+*******[10:06:05:941 id:0x00003770]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:06:06:23 id:0x00003770]acquire live push address end. errorCode:200 errorDesc:
+*******[10:13:24:658 id:0x00001664]login client start. user:15268581191
+*******[10:13:26:337 id:0x00001664]login client end. errorCode:200 errorDesc:OK
+*******[10:13:29:427 id:0x00001664]Add video to sourceList: 视频1
+*******[10:13:29:694 id:0x00001664]Add camera to sourceList: 摄像头1
+*******[10:13:33:138 id:0x00001664]acquire live push address start. categoryID:3 matchID:45 scheduleData:0
+*******[10:13:33:223 id:0x00001664]acquire live push address end. errorCode:200 errorDesc:
+*******[10:14:50:922 id:0x00003378]login client start. user:15268581191
+*******[10:14:52:653 id:0x00003378]login client end. errorCode:200 errorDesc:OK
+*******[10:14:55:646 id:0x00003378]Add video to sourceList: 视频1
+*******[10:14:55:912 id:0x00003378]Add camera to sourceList: 摄像头1
+*******[10:14:59:210 id:0x00003378]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:14:59:293 id:0x00003378]acquire live push address end. errorCode:200 errorDesc:
+*******[10:16:37:225 id:0x000012e8]login client start. user:15268581191
+*******[10:16:38:927 id:0x000012e8]login client end. errorCode:200 errorDesc:OK
+*******[10:16:41:904 id:0x000012e8]Add video to sourceList: 视频1
+*******[10:16:42:160 id:0x000012e8]Add camera to sourceList: 摄像头1
+*******[10:16:45:601 id:0x000012e8]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:16:45:692 id:0x000012e8]acquire live push address end. errorCode:200 errorDesc:
+*******[10:30:44:923 id:0x00000afc]login client start. user:15268581191
+*******[10:30:46:589 id:0x00000afc]login client end. errorCode:200 errorDesc:OK
+*******[10:30:49:662 id:0x00000afc]Add video to sourceList: 视频1
+*******[10:30:49:929 id:0x00000afc]Add camera to sourceList: 摄像头1
+*******[10:30:57:27 id:0x00000afc]acquire live push address start. categoryID:3 matchID:45 scheduleData:0
+*******[10:30:57:108 id:0x00000afc]acquire live push address end. errorCode:200 errorDesc:
+*******[10:31:43:428 id:0x00000b44]login client start. user:15268581191
+*******[10:31:45:130 id:0x00000b44]login client end. errorCode:200 errorDesc:OK
+*******[10:31:48:93 id:0x00000b44]Add video to sourceList: 视频1
+*******[10:31:48:352 id:0x00000b44]Add camera to sourceList: 摄像头1
+*******[10:31:56:355 id:0x00000b44]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:31:56:438 id:0x00000b44]acquire live push address end. errorCode:200 errorDesc:
+*******[10:34:07:187 id:0x000015b4]login client start. user:15268581191
+*******[10:34:08:893 id:0x000015b4]login client end. errorCode:200 errorDesc:OK
+*******[10:34:11:934 id:0x000015b4]Add video to sourceList: 视频1
+*******[10:34:12:193 id:0x000015b4]Add camera to sourceList: 摄像头1
+*******[10:34:16:691 id:0x000015b4]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:34:16:776 id:0x000015b4]acquire live push address end. errorCode:200 errorDesc:
+*******[10:36:39:554 id:0x000036a0]login client start. user:15268581191
+*******[10:36:41:237 id:0x000036a0]login client end. errorCode:200 errorDesc:OK
+*******[10:36:44:212 id:0x000036a0]Add video to sourceList: 视频1
+*******[10:36:44:476 id:0x000036a0]Add camera to sourceList: 摄像头1
+*******[10:36:48:594 id:0x000036a0]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:36:48:682 id:0x000036a0]acquire live push address end. errorCode:200 errorDesc:
+*******[10:38:30:825 id:0x000018dc]login client start. user:15268581191
+*******[10:38:32:525 id:0x000018dc]login client end. errorCode:200 errorDesc:OK
+*******[10:38:35:488 id:0x000018dc]Add video to sourceList: 视频1
+*******[10:38:35:755 id:0x000018dc]Add camera to sourceList: 摄像头1
+*******[10:38:44:257 id:0x000018dc]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:38:44:345 id:0x000018dc]acquire live push address end. errorCode:200 errorDesc:
+*******[10:43:18:231 id:0x00000de8]login client start. user:15268581191
+*******[10:43:19:911 id:0x00000de8]login client end. errorCode:200 errorDesc:OK
+*******[10:43:22:895 id:0x00000de8]Add video to sourceList: 视频1
+*******[10:43:23:161 id:0x00000de8]Add camera to sourceList: 摄像头1
+*******[10:43:34:703 id:0x00000de8]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:43:34:787 id:0x00000de8]acquire live push address end. errorCode:200 errorDesc:
+*******[10:43:53:255 id:0x00000de8]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[10:43:53:336 id:0x00000de8]acquire live push address end. errorCode:200 errorDesc:
+*******[10:47:22:38 id:0x00000de8]quit live start.
+*******[10:47:22:446 id:0x00000de8]quit live end. errorCode:200 errorDesc:
+*******[10:47:22:447 id:0x00000de8]acquire live statistical information start.
+*******[10:47:22:506 id:0x00000de8]acquire live statistical information end. liveDuration:00:03:21
+*******[10:49:41:861 id:0x000037dc]login client start. user:15268581191
+*******[10:49:43:306 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:49:45:444 id:0x000037dc]login client start. user:15268581191
+*******[10:49:45:507 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:49:46:628 id:0x000037dc]login client start. user:15268581191
+*******[10:49:46:693 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:49:49:453 id:0x000037dc]login client start. user:15268581191
+*******[10:49:49:521 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:49:53:828 id:0x000037dc]login client start. user:15268581191
+*******[10:49:53:895 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:50:17:868 id:0x000037dc]login client start. user:15268581191
+*******[10:50:17:931 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:50:18:484 id:0x000037dc]login client start. user:15268581191
+*******[10:50:18:547 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:50:18:676 id:0x000037dc]login client start. user:15268581191
+*******[10:50:18:735 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:50:18:860 id:0x000037dc]login client start. user:15268581191
+*******[10:50:18:924 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:50:19:20 id:0x000037dc]login client start. user:15268581191
+*******[10:50:19:79 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:50:19:180 id:0x000037dc]login client start. user:15268581191
+*******[10:50:19:238 id:0x000037dc]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:50:37:668 id:0x00000b14]login client start. user:15268581191
+*******[10:50:39:148 id:0x00000b14]login client end. errorCode:4003 errorDesc:��¼�����������
+*******[10:51:14:978 id:0x00000b14]login client start. user:88888888
+*******[10:51:15:290 id:0x00000b14]login client end. errorCode:200 errorDesc:OK
+*******[10:51:18:254 id:0x00000b14]Add video to sourceList: 视频1
+*******[10:51:18:528 id:0x00000b14]Add camera to sourceList: 摄像头1
+*******[10:53:01:635 id:0x000030c0]login client start. user:88888888
+*******[10:53:03:361 id:0x000030c0]login client end. errorCode:200 errorDesc:OK
+*******[10:53:06:352 id:0x000030c0]Add video to sourceList: 视频1
+*******[10:53:06:614 id:0x000030c0]Add camera to sourceList: 摄像头1
+*******[10:53:15:211 id:0x000030c0]SourceList index: 0 source name: 视频1
+*******[10:53:15:212 id:0x000030c0]Set source of name: 视频1
+*******[10:53:18:636 id:0x000030c0]SourceList index: 0 source name: 摄像头1
+*******[10:53:18:637 id:0x000030c0]Set source of name: 摄像头1
+*******[10:53:32:307 id:0x000030c0]Del source from sourceList: 摄像头1
+*******[10:53:34:483 id:0x000030c0]Del source from sourceList: 图片1
+*******[10:53:38:627 id:0x000030c0]Del source from sourceList: 文本1
+*******[10:53:40:490 id:0x000030c0]Del source from sourceList: 视频1
+*******[10:53:53:524 id:0x000030c0]Del source from sourceList: 图片1
+*******[10:53:59:394 id:0x000030c0]Del source from sourceList: 图片2
+*******[11:07:12:558 id:0x00002ee0]login client start. user:15268581191
+*******[11:07:14:284 id:0x00002ee0]login client end. errorCode:200 errorDesc:OK
+*******[11:07:35:870 id:0x0000231c]login client start. user:88888888
+*******[11:07:37:567 id:0x0000231c]login client end. errorCode:200 errorDesc:OK
+*******[11:07:56:175 id:0x0000240c]login client start. user:15268581191
+*******[11:07:57:843 id:0x0000240c]login client end. errorCode:200 errorDesc:OK
+*******[11:17:39:980 id:0x00003308]login client start. user:15268581191
+*******[11:17:41:807 id:0x00003308]login client end. errorCode:200 errorDesc:OK
+*******[09:49:53:377 id:0x000014a4]login client start. user:15268581191
+*******[09:49:55:498 id:0x000014a4]login client end. errorCode:200 errorDesc:OK
+*******[09:52:28:889 id:0x0000347c]login client start. user:15268581191
+*******[09:52:30:592 id:0x0000347c]login client end. errorCode:200 errorDesc:OK
+*******[09:52:39:709 id:0x0000347c]Init video to sourceList: 视频1
+*******[09:52:41:184 id:0x0000347c]Del source from sourceList: 视频1
+*******[09:52:42:87 id:0x0000347c]Init video to sourceList: 视频2
+*******[09:52:43:176 id:0x0000347c]Del source from sourceList: 视频2
+*******[09:52:44:415 id:0x0000347c]Init video to sourceList: 视频3
+*******[09:52:49:297 id:0x0000347c]Del source from sourceList: 视频3
+*******[09:52:50:688 id:0x0000347c]Init video to sourceList: 视频4
+*******[09:52:59:720 id:0x0000347c]Del source from sourceList: 视频4
+*******[15:44:35:759 id:0x00002b04]login client start. user:15268581191
+*******[15:44:37:541 id:0x00002b04]login client end. errorCode:200 errorDesc:OK
+*******[15:45:21:917 id:0x000020ac]login client start. user:15268581191
+*******[15:45:23:784 id:0x000020ac]login client end. errorCode:200 errorDesc:OK
+*******[16:05:06:822 id:0x00002780]login client start. user:15268581191
+*******[16:05:08:540 id:0x00002780]login client end. errorCode:200 errorDesc:OK
+*******[09:38:52:411 id:0x00001a8c]login client start. user:15268581191
+*******[09:38:54:280 id:0x00001a8c]login client end. errorCode:200 errorDesc:OK
+*******[09:39:10:587 id:0x00001a8c]Init video to sourceList: 视频1
+*******[09:39:11:890 id:0x00001a8c]Del source from sourceList: 视频1
+*******[09:39:13:482 id:0x00001a8c]Init camera to sourceList: 摄像头1
+*******[09:39:16:59 id:0x00001a8c]Del source from sourceList: 摄像头1
+*******[09:53:21:429 id:0x0000054c]login client start. user:15268581191
+*******[09:53:23:196 id:0x0000054c]login client end. errorCode:200 errorDesc:OK
+*******[09:53:32:509 id:0x0000054c]Init camera to sourceList: 摄像头1
+*******[09:53:37:565 id:0x0000054c]Del source from sourceList: 摄像头1
+*******[10:15:08:501 id:0x00001e74]login client start. user:15268581191
+*******[10:15:10:257 id:0x00001e74]login client end. errorCode:200 errorDesc:OK
+*******[10:15:42:374 id:0x000019d8]login client start. user:15268581191
+*******[10:15:44:114 id:0x000019d8]login client end. errorCode:200 errorDesc:OK
+*******[10:18:26:893 id:0x000032d8]login client start. user:15268581191
+*******[10:18:28:675 id:0x000032d8]login client end. errorCode:200 errorDesc:OK
+*******[10:20:06:244 id:0x00002980]login client start. user:15268581191
+*******[10:20:07:983 id:0x00002980]login client end. errorCode:200 errorDesc:OK
+*******[10:22:23:995 id:0x00002834]login client start. user:15268581191
+*******[10:22:25:763 id:0x00002834]login client end. errorCode:200 errorDesc:OK
+*******[10:25:26:370 id:0x00002e64]login client start. user:15268581191
+*******[10:25:28:118 id:0x00002e64]login client end. errorCode:200 errorDesc:OK
+*******[10:26:41:306 id:0x00003570]login client start. user:15268581191
+*******[10:26:43:49 id:0x00003570]login client end. errorCode:200 errorDesc:OK
+*******[10:28:07:745 id:0x000021b0]login client start. user:15268581191
+*******[10:28:09:503 id:0x000021b0]login client end. errorCode:200 errorDesc:OK
+*******[10:28:40:737 id:0x00001d48]login client start. user:15268581191
+*******[10:28:42:485 id:0x00001d48]login client end. errorCode:200 errorDesc:OK
+*******[10:29:29:800 id:0x00000614]login client start. user:15268581191
+*******[10:29:31:560 id:0x00000614]login client end. errorCode:200 errorDesc:OK
+*******[10:31:36:991 id:0x00003148]login client start. user:15268581191
+*******[10:31:38:741 id:0x00003148]login client end. errorCode:200 errorDesc:OK
+*******[10:32:56:287 id:0x00003d70]login client start. user:15268581191
+*******[10:32:58:27 id:0x00003d70]login client end. errorCode:200 errorDesc:OK
+*******[10:34:48:295 id:0x000033c0]login client start. user:15268581191
+*******[10:34:50:66 id:0x000033c0]login client end. errorCode:200 errorDesc:OK
+*******[10:36:20:790 id:0x000033bc]login client start. user:15268581191
+*******[10:36:22:537 id:0x000033bc]login client end. errorCode:200 errorDesc:OK
+*******[10:37:56:934 id:0x000006bc]login client start. user:15268581191
+*******[10:37:58:684 id:0x000006bc]login client end. errorCode:200 errorDesc:OK
+*******[10:41:02:117 id:0x00003098]login client start. user:15268581191
+*******[10:41:03:852 id:0x00003098]login client end. errorCode:200 errorDesc:OK
+*******[10:45:09:395 id:0x00002310]login client start. user:15268581191
+*******[10:45:11:148 id:0x00002310]login client end. errorCode:200 errorDesc:OK
+*******[10:45:56:450 id:0x0000071c]login client start. user:15268581191
+*******[10:45:58:203 id:0x0000071c]login client end. errorCode:200 errorDesc:OK
+*******[10:48:14:537 id:0x00002028]login client start. user:15268581191
+*******[10:48:16:312 id:0x00002028]login client end. errorCode:200 errorDesc:OK
+*******[10:48:53:17 id:0x00001ba0]login client start. user:15268581191
+*******[10:48:54:791 id:0x00001ba0]login client end. errorCode:200 errorDesc:OK
+*******[10:50:10:665 id:0x000032f4]login client start. user:15268581191
+*******[10:50:12:418 id:0x000032f4]login client end. errorCode:200 errorDesc:OK
+*******[10:50:34:472 id:0x00003ddc]login client start. user:15268581191
+*******[10:50:36:221 id:0x00003ddc]login client end. errorCode:200 errorDesc:OK
+*******[10:53:19:592 id:0x00003098]login client start. user:15268581191
+*******[10:53:21:345 id:0x00003098]login client end. errorCode:200 errorDesc:OK
+*******[09:08:57:707 id:0x00004068]login client start. user:15268581191
+*******[09:08:59:305 id:0x00004068]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login/v2 - server replied: Internal Server Error
+*******[09:21:39:431 id:0x00003fb4]login client start. user:15268581191
+*******[09:21:42:31 id:0x00003fb4]login client end. errorCode:200 errorDesc:OK
+*******[09:22:23:66 id:0x00003fb4]Init camera to sourceList: 摄像头1
+*******[09:22:30:984 id:0x00003fb4]Del source from sourceList: 摄像头1
+*******[09:22:33:755 id:0x00003fb4]Init camera to sourceList: 摄像头2
+*******[09:22:44:217 id:0x00003fb4]Init video to sourceList: 视频1
+*******[09:22:45:502 id:0x00003fb4]Del source from sourceList: 视频1
+*******[11:04:14:337 id:0x00002840]login client start. user:15268581191
+*******[11:04:16:109 id:0x00002840]login client end. errorCode:200 errorDesc:OK
+*******[11:14:50:137 id:0x00002110]login client start. user:15268581191
+*******[11:14:51:903 id:0x00002110]login client end. errorCode:200 errorDesc:OK
+*******[11:15:20:680 id:0x0000185c]login client start. user:15268581191
+*******[11:15:22:430 id:0x0000185c]login client end. errorCode:200 errorDesc:OK
+*******[11:18:57:223 id:0x000053c0]login client start. user:15268581191
+*******[11:18:58:938 id:0x000053c0]login client end. errorCode:200 errorDesc:OK
+*******[11:34:55:393 id:0x00003f30]login client start. user:15268581191
+*******[11:34:57:119 id:0x00003f30]login client end. errorCode:200 errorDesc:OK
+*******[11:35:19:225 id:0x00002068]login client start. user:15268581191
+*******[11:35:20:964 id:0x00002068]login client end. errorCode:200 errorDesc:OK
+*******[17:05:37:451 id:0x00003380]login client start. user:15268581191
+*******[17:05:39:169 id:0x00003380]login client end. errorCode:200 errorDesc:OK
+*******[17:06:01:21 id:0x000019b0]login client start. user:15268581191
+*******[17:06:02:729 id:0x000019b0]login client end. errorCode:200 errorDesc:OK
+*******[10:59:51:630 id:0x000042f0]login client start. user:15268581191
+*******[10:59:53:572 id:0x000042f0]login client end. errorCode:200 errorDesc:OK
+*******[11:00:55:22 id:0x000030dc]login client start. user:15268581191
+*******[11:00:56:799 id:0x000030dc]login client end. errorCode:200 errorDesc:OK
+*******[11:04:37:284 id:0x00003908]login client start. user:15268581191
+*******[11:04:39:42 id:0x00003908]login client end. errorCode:200 errorDesc:OK
+*******[11:06:20:860 id:0x00003574]login client start. user:15268581191
+*******[11:06:22:618 id:0x00003574]login client end. errorCode:200 errorDesc:OK
+*******[11:18:31:581 id:0x000038a8]login client start. user:15268581191
+*******[11:18:33:356 id:0x000038a8]login client end. errorCode:200 errorDesc:OK
+*******[14:54:51:393 id:0x00001170]login client start. user:15268581191
+*******[14:54:53:461 id:0x00001170]login client end. errorCode:200 errorDesc:OK
+*******[15:02:15:432 id:0x00002730]login client start. user:15268581191
+*******[15:02:17:216 id:0x00002730]login client end. errorCode:200 errorDesc:OK
+*******[09:31:47:628 id:0x00003b58]login client start. user:15268581191
+*******[09:31:49:603 id:0x00003b58]login client end. errorCode:200 errorDesc:OK
+*******[09:32:03:533 id:0x00003b58]Init video to sourceList: 视频1
+*******[09:32:23:490 id:0x00003b58]SourceList index: 0 source name: 视频1
+*******[09:32:23:492 id:0x00003b58]Set source of name: 视频1
+*******[09:32:28:290 id:0x00003b58]SourceList index: 0 source name: 视频1
+*******[09:32:28:292 id:0x00003b58]Set source of name: 视频1
+*******[09:32:50:778 id:0x00001ef8]login client start. user:15268581191
+*******[09:32:52:478 id:0x00001ef8]login client end. errorCode:200 errorDesc:OK
+*******[09:32:55:302 id:0x00001ef8]Add source of video to sourceList: 视频1
+*******[09:33:27:530 id:0x00001ef8]SourceList index: 0 source name: 视频1
+*******[09:33:27:531 id:0x00001ef8]Set source of name: 视频1
+*******[10:02:31:181 id:0x00003140]login client start. user:15268581191
+*******[10:02:32:944 id:0x00003140]login client end. errorCode:200 errorDesc:OK
+*******[10:02:35:820 id:0x00003140]Add source of video to sourceList: 视频1
+*******[10:02:42:365 id:0x00003140]SourceList index: 0 source name: 视频1
+*******[10:02:42:366 id:0x00003140]Set source of name: 视频1
+*******[10:02:58:148 id:0x00003140]SourceList index: 0 source name: 视频1
+*******[10:02:58:149 id:0x00003140]Set source of name: 视频1
+*******[10:05:31:264 id:0x0000156c]login client start. user:15268581191
+*******[10:05:32:942 id:0x0000156c]login client end. errorCode:200 errorDesc:OK
+*******[10:05:35:525 id:0x0000156c]Add source of video to sourceList: 视频1
+*******[10:05:45:891 id:0x0000156c]SourceList index: 0 source name: 视频1
+*******[10:05:45:893 id:0x0000156c]Set source of name: 视频1
+*******[10:06:12:891 id:0x0000156c]SourceList index: 0 source name: 视频1
+*******[10:06:12:892 id:0x0000156c]Set source of name: 视频1
+*******[10:06:20:611 id:0x0000156c]SourceList index: 0 source name: 视频1
+*******[10:06:20:612 id:0x0000156c]Set source of name: 视频1
+*******[10:06:37:859 id:0x0000156c]SourceList index: 0 source name: 视频1
+*******[10:06:37:861 id:0x0000156c]Set source of name: 视频1
+*******[10:07:19:122 id:0x0000248c]login client start. user:15268581191
+*******[10:07:20:810 id:0x0000248c]login client end. errorCode:200 errorDesc:OK
+*******[10:07:23:375 id:0x0000248c]Add source of video to sourceList: 视频1
+*******[10:07:26:354 id:0x0000248c]SourceList index: 0 source name: 视频1
+*******[10:07:26:355 id:0x0000248c]Set source of name: 视频1
+*******[16:38:42:106 id:0x00001110]login client start. user:15268581191
+*******[16:38:44:57 id:0x00001110]login client end. errorCode:200 errorDesc:OK
+*******[16:38:48:877 id:0x00001110]Add source of video to sourceList: 视频1
+*******[16:41:00:09 id:0x000042a4]login client start. user:15268581191
+*******[16:41:01:693 id:0x000042a4]login client end. errorCode:200 errorDesc:OK
+*******[16:41:04:528 id:0x000042a4]Add source of video to sourceList: 视频1
+*******[16:41:56:33 id:0x000014f8]login client start. user:15268581191
+*******[16:41:57:744 id:0x000014f8]login client end. errorCode:200 errorDesc:OK
+*******[09:07:27:363 id:0x0000348c]login client start. user:15268581191
+*******[09:07:29:304 id:0x0000348c]login client end. errorCode:200 errorDesc:OK
+*******[09:07:49:115 id:0x0000348c]login client start. user:15268581191
+*******[09:07:49:352 id:0x0000348c]login client end. errorCode:200 errorDesc:OK
+*******[09:08:42:314 id:0x00003938]login client start. user:15268581191
+*******[09:08:44:38 id:0x00003938]login client end. errorCode:200 errorDesc:OK
+*******[09:10:00:858 id:0x000037a0]login client start. user:15268581191
+*******[09:10:02:554 id:0x000037a0]login client end. errorCode:200 errorDesc:OK
+*******[09:13:38:625 id:0x00002be0]login client start. user:15268581191
+*******[09:13:40:334 id:0x00002be0]login client end. errorCode:200 errorDesc:OK
+*******[09:15:17:911 id:0x00003d24]login client start. user:15268581191
+*******[09:15:19:606 id:0x00003d24]login client end. errorCode:200 errorDesc:OK
+*******[09:24:18:907 id:0x00003f08]login client start. user:15268581191
+*******[09:24:20:604 id:0x00003f08]login client end. errorCode:200 errorDesc:OK
+*******[09:25:19:539 id:0x00001ac8]login client start. user:15268581191
+*******[09:25:21:265 id:0x00001ac8]login client end. errorCode:200 errorDesc:OK
+*******[09:26:06:538 id:0x000018a4]login client start. user:15268581191
+*******[09:26:08:255 id:0x000018a4]login client end. errorCode:200 errorDesc:OK
+*******[09:26:54:889 id:0x00002d8c]login client start. user:15268581191
+*******[09:26:56:581 id:0x00002d8c]login client end. errorCode:200 errorDesc:OK
+*******[09:27:32:778 id:0x0000367c]login client start. user:15268581191
+*******[09:27:34:473 id:0x0000367c]login client end. errorCode:200 errorDesc:OK
+*******[09:30:46:633 id:0x00003938]login client start. user:15268581191
+*******[09:30:48:352 id:0x00003938]login client end. errorCode:200 errorDesc:OK
+*******[09:31:09:406 id:0x00003938]Init video to sourceList: 视频1
+*******[09:35:03:22 id:0x00001368]login client start. user:15268581191
+*******[09:35:04:729 id:0x00001368]login client end. errorCode:200 errorDesc:OK
+*******[09:35:07:534 id:0x00001368]Add source of video to sourceList: 视频1
+*******[09:35:26:510 id:0x00001368]SourceList index: 0 source name: 视频1
+*******[09:35:26:511 id:0x00001368]Set source of name: 视频1
+*******[09:36:14:118 id:0x00001368]SourceList index: 0 source name: 视频1
+*******[09:36:14:119 id:0x00001368]Set source of name: 视频1
+*******[09:36:19:150 id:0x00001368]SourceList index: 0 source name: 视频1
+*******[09:36:19:151 id:0x00001368]Set source of name: 视频1
+*******[09:41:34:155 id:0x00003da8]login client start. user:15268581191
+*******[09:41:35:878 id:0x00003da8]login client end. errorCode:200 errorDesc:OK
+*******[09:41:38:681 id:0x00003da8]Add source of video to sourceList: 视频1
+*******[09:41:43:571 id:0x00003da8]SourceList index: 0 source name: 视频1
+*******[09:41:43:573 id:0x00003da8]Set source of name: 视频1
+*******[09:43:26:858 id:0x00002b08]login client start. user:15268581191
+*******[09:43:28:538 id:0x00002b08]login client end. errorCode:200 errorDesc:OK
+*******[09:43:31:339 id:0x00002b08]Add source of video to sourceList: 视频1
+*******[09:43:34:867 id:0x00002b08]SourceList index: 0 source name: 视频1
+*******[09:43:34:868 id:0x00002b08]Set source of name: 视频1
+*******[09:45:04:363 id:0x0000078c]login client start. user:15268581191
+*******[09:45:06:48 id:0x0000078c]login client end. errorCode:200 errorDesc:OK
+*******[09:45:08:908 id:0x0000078c]Add source of video to sourceList: 视频1
+*******[09:45:12:563 id:0x0000078c]SourceList index: 0 source name: 视频1
+*******[09:45:12:564 id:0x0000078c]Set source of name: 视频1
+*******[09:46:46:299 id:0x00001798]login client start. user:15268581191
+*******[09:46:48:06 id:0x00001798]login client end. errorCode:200 errorDesc:OK
+*******[09:46:50:863 id:0x00001798]Add source of video to sourceList: 视频1
+*******[09:46:55:513 id:0x00001798]SourceList index: 0 source name: 视频1
+*******[09:46:55:514 id:0x00001798]Set source of name: 视频1
+*******[09:50:41:632 id:0x00003cb4]login client start. user:15268581191
+*******[09:50:43:321 id:0x00003cb4]login client end. errorCode:200 errorDesc:OK
+*******[09:50:46:155 id:0x00003cb4]Add source of video to sourceList: 视频1
+*******[09:50:49:688 id:0x00003cb4]SourceList index: 0 source name: 视频1
+*******[09:50:49:690 id:0x00003cb4]Set source of name: 视频1
+*******[09:38:30:788 id:0x00002960]login client start. user:15268581191
+*******[09:38:32:765 id:0x00002960]login client end. errorCode:200 errorDesc:OK
+*******[09:38:37:833 id:0x00002960]Add source of video to sourceList: 视频1
+*******[09:38:50:356 id:0x00002960]Del source from sourceList: 视频1

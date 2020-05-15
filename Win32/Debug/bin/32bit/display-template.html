@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        chat-msg-display
+    </title>
+    <link rel="stylesheet" type="text/css" href="css/theme.css" />
+    <script src="js/jquery-3.4.1.min.js">
+    </script>
+
+    <script type="text/javascript">
+        function scrollToBottom() {
+
+            //var object = $('div#msgflow').find('div').last();
+            //object.scrollIntoView();
+
+            //console.log($(document).height());
+            //console.log($(window).height());
+
+            var scrollHeight = $(document).height() - $(window).height();
+            // vs output窗口不支持这种显示方式 Chromium console窗口支持这种显示方式
+            console.log($(document).height(), $(window).height());
+            console.log("*******%d %d", $(document).height(), $(window).height());
+
+            console.log($(document).height() + " " + $(window).height());
+            $(document).scrollTop(scrollHeight);
+        }
+
+        function getScrollTop() {
+            var scrollTop = 0;
+            if (document.documentElement && document.documentElement.scrollTop) {
+                scrollTop = document.documentElement.scrollTop;
+            } else if (document.body) {
+                scrollTop = document.body.scrollTop;
+            }
+            return scrollTop;
+        }
+
+        function getClientHeight() {
+            var clientHeight = 0;
+            if (document.body.clientHeight && document.documentElement.clientHeight) {
+                clientHeight = Math.min(document.body.clientHeight, document.documentElement.clientHeight);
+            } else {
+                clientHeight = Math.max(document.body.clientHeight, document.documentElement.clientHeight);
+            }
+            return clientHeight;
+        }
+
+        // 获取文档完整的高度 
+        function getScrollHeight() {
+            return Math.max(document.body.scrollHeight, document.documentElement.scrollHeight);
+        }
+
+        function imageLoad(e) {
+
+            // console.log(e.src + " document height:" + $(document).height());
+            // var scrollHeight = $(document).height() - $(window).height();
+            // $(document).scrollTop(scrollHeight);
+
+        }
+    </script>
+
+    <script type="text/javascript" src="qrc:///qtwebchannel/qwebchannel.js"></script>
+
+    <script>
+        function load() {
+
+            new QWebChannel(qt.webChannelTransport, function(channel) {
+
+                console.log("web page loaded.");
+
+                var interactObj = channel.objects.interactObj;
+
+                interactObj.signalPrependDirectiveToJS.connect(function(str) {
+
+
+
+                    //$("div#msgflow").find("div").eq(0).find(".ant-row").after(str);
+                    //$("div#msgflow").find("div").eq(0).append(str);
+                    $("div#msgflow").find("div").eq(0).prepend(str);
+
+                    // var scrollHeight = $(document).height() - $(window).height();
+                    // $(document).scrollTop(scrollHeight);
+
+                    //var object = $('div#msgflow').find('div#end');
+                    //object.scrollIntoView();
+
+                    //var element = document.getElementById("end");
+                    //element.scrollIntoView();
+
+                    // var myElement = document.getElementById("end");
+                    // var scrollHeight = myElement.offsetHeight - $(window).height();
+                    // var myElements = document.getElementsByTagName("html");
+                    // console.log(myElement + myElement.offsetHeight);
+                    // //console.log('%d %d', myElement.offsetHeight, $(window).height());
+                    // $(document).scrollTop(1000);
+
+                    //scrollToBottom();
+
+                    //setTimeout("scrollToBottom()", 100);
+
+                    //$("div#viewMoreMsg").after(str);
+
+                    console.log("JS receive prepend element directive from C++.");
+                });
+
+                interactObj.signalAppendDirectiveToJS.connect(function(str) {
+
+                    console.log("receive append element directive from C++.");
+                    $("div#msgflow").find("div").eq(0).append(str);
+
+                    setTimeout("scrollToBottom()", 100);
+
+                });
+
+                interactObj.signalResetDirectiveToJS.connect(function() {
+
+                    console.log("JS receive reset element directive from C++.");
+                    $("div#msgflow").find("div").eq(0).empty();
+
+                });
+
+                interactObj.signalRemoveTagDirectiveToJS.connect(function() {
+
+                    console.log("JS receive remove element directive from C++.");
+
+                    if ($("div#viewMoreMsg").length > 0) {
+                        $("div#viewMoreMsg").remove();
+                    }
+                });
+
+                interactObj.signalAddTagDirectiveToJS.connect(function() {
+
+                    if ($("div#viewMoreMsg").length == 0) {
+                        var str = "<div class=\"ant-row\" id=\"viewMoreMsg\" style=\"text-align: center; padding: 20px 0px;\"><span class=\"color9 fs12\" id=\"viewMoreMsg\" style=\"color: blue\">查看更多消息</span></div>";
+                        $("div#msgflow").find("div").eq(0).prepend(str);
+
+                        $("span#viewMoreMsg").click(function() {
+                            interactObj.JSAcquireMoreMsgDirective();
+                        });
+
+                    }
+
+                    console.log("JS receive add element directive from C++.");
+                });
+
+
+                interactObj.signalSTBDirectiveToJS.connect(function() {
+
+                    console.log("JS receive scroll to bottom directive from C++.");
+                    var scrollHeight = $(document).height() - $(window).height();
+                    $(document).scrollTop(scrollHeight);
+                });
+
+                // 滚动加载更多消息的事件处理函数
+                window.onscroll = function() {
+
+                    var pos = getScrollTop();
+
+                    if (pos == 0) {
+
+                        //interactObj.JSAcquireMoreMsgDirective();
+
+                    }
+
+                    //console.log('handle position:' + pos);
+
+                }
+
+                $(document).ready(function() {
+
+                    console.log('document is ready.');
+
+                });
+            });
+        }
+    </script>
+</head>
+
+<body onload="load()">
+    <div class="chat_panel___GLeHo" id="msgflow" data-lazyload-listened="1">
+        <div>
+            <!-- <div class="ant-row" style="text-align: center; padding: 20px 0px;"><span class="color9 fs12">历史记录只会保存最近7天</span></div> -->
+            <!-- <div class="ant-row" id="viewMoreMsg" style="text-align: center; padding: 20px 0px;"><span class="color9 fs12" id="viewMoreMsg" style="color: blue">查看更多消息</span></div> -->
+        </div>
+        <div id="end"></div>
+    </div>
+</body>

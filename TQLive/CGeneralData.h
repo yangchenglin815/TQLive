@@ -1,0 +1,7 @@
+#pragma once
+enum EN_LIVE_TYPE
+{
+	BASKETBALL_TYPE = 1,
+	FOOTBALL_TYPE,
+	SYNTHESIS_TYPE
+};

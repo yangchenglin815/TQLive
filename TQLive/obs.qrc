@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/mute.png</file>
+        <file>images/unmute.png</file>
+        <file>images/refresh.png</file>
+        <file>images/configuration21_16.png</file>
+        <file>images/configuration21_16_2x.png</file>
+        <file>images/invisible_mask.png</file>
+        <file>images/invisible_mask_2x.png</file>
+        <file>images/visible_mask.png</file>
+        <file>images/visible_mask_2x.png</file>
+        <file>images/list_remove.png</file>
+        <file>images/add.png</file>
+        <file>images/down.png</file>
+        <file>images/editscene.png</file>
+        <file>images/live.png</file>
+        <file>images/properties.png</file>
+        <file>images/properties_2x.png</file>
+        <file>images/up.png</file>
+        <file>images/obs.png</file>
+        <file>images/tray_active.png</file>
+        <file>images/locked_mask.png</file>
+        <file>images/locked_mask_2x.png</file>
+        <file>images/unlocked_mask.png</file>
+        <file>images/unlocked_mask_2x.png</file>
+        <file>images/collapse.png</file>
+        <file>images/expand.png</file>
+    </qresource>
+    <qresource prefix="/settings">
+        <file>images/settings/output.svg</file>
+        <file>images/settings/stream.svg</file>
+        <file>images/settings/advanced.svg</file>
+        <file>images/settings/video.svg</file>
+        <file>images/settings/audio.svg</file>
+        <file>images/settings/general.svg</file>
+        <file>images/settings/hotkeys.svg</file>
+        <file>images/live tool_icon_According_to.png</file>
+        <file>images/live tool_icon_According_to_2x.png</file>
+        <file>images/live tool_icon_hidden.png</file>
+        <file>images/live tool_icon_hidden_2x.png</file>
+    </qresource>
+</RCC>

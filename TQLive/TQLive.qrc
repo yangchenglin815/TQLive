@@ -1,0 +1,166 @@
+<RCC>
+    <qresource prefix="/TQLive">
+        <file>images/lb_prompt_text.png</file>
+        <file>images/TQLive.ico</file>
+        <file>images/lb_group_chat.png</file>
+        <file>images/lb_hot.png</file>
+        <file>images/pb_live_content_normal.png</file>
+        <file>images/pb_live_content_over.png</file>
+        <file>images/pb_modify_cancel_normal.png</file>
+        <file>images/pb_modify_normal.png</file>
+        <file>images/pb_modify_save_normal.png</file>
+        <file>images/lb_select_match.png</file>
+        <file>images/pb_go_back_normal.png</file>
+        <file>images/pb_confirm_normal.png</file>
+        <file>images/basketball_normal.png</file>
+        <file>images/basketball_over.png</file>
+        <file>images/football_normal.png</file>
+        <file>images/football_over.png</file>
+        <file>images/live_schedule_normal.png</file>
+        <file>images/live_schedule_over.png</file>
+        <file>images/synthesis_normal.png</file>
+        <file>images/synthesis_over.png</file>
+        <file>images/pb_record_close.png</file>
+        <file>images/pb_record_open.png</file>
+        <file>images/pb_stream_normal.png</file>
+        <file>images/bullet_screen_pressed.png</file>
+        <file>images/group_settings_pressed.png</file>
+        <file>images/room_management_pressed.png</file>
+        <file>images/send_red packet_pressed.png</file>
+        <file>images/sound_effect_pressed.png</file>
+        <file>images/bullet_screen_normal.png</file>
+        <file>images/room_management_normal.png</file>
+        <file>images/group_settings_normal.png</file>
+        <file>images/send_red packet_normal.png</file>
+        <file>images/sound_effect_normal.png</file>
+        <file>images/settings_menu_normal.png</file>
+        <file>images/settings_menu_pressed.png</file>
+        <file>images/close_normal.png</file>
+        <file>images/close_pressed.png</file>
+        <file>images/main_window.png</file>
+        <file>images/maximum_normal.png</file>
+        <file>images/maximum_pressed.png</file>
+        <file>images/minimum_normal.png</file>
+        <file>images/minimum_pressed.png</file>
+        <file>images/down-arrow.png</file>
+        <file>images/lb_application_name.png</file>
+        <file>images/lb_immediately_registered.png</file>
+        <file>images/lb_no_account.png</file>
+        <file>images/lb_third_party_login.png</file>
+        <file>images/lb_phone_login_normal.png</file>
+        <file>images/lb_account_login_normal.png</file>
+        <file>images/lb_account_login_pressed.png</file>
+        <file>images/lb_phone_login_pressed.png</file>
+        <file>images/pb_close_normal.png</file>
+        <file>images/pb_close_pressed.png</file>
+        <file>images/lb_QR_login.png</file>
+        <file>images/lb_qq_login.png</file>
+        <file>images/lb_wechat_login.png</file>
+        <file>images/cb_common_checked.png</file>
+        <file>images/cb_common_unchecked.png</file>
+        <file>images/lb_unpeek_password.png</file>
+        <file>images/lb_peek_password.png</file>
+        <file>images/lb_password.png</file>
+        <file>images/lb_user.png</file>
+        <file>images/logo.png</file>
+        <file>images/pb_common_normal.png</file>
+        <file>images/pb_common_hover.png</file>
+        <file>images/pb_common_pressed.png</file>
+        <file>images/arrow.png</file>
+        <file>images/level1.png</file>
+        <file>images/level2.png</file>
+        <file>images/level3.png</file>
+        <file>images/level4.png</file>
+        <file>images/level5.png</file>
+        <file>images/forbidden.png</file>
+        <file>images/forbidden_hover.png</file>
+        <file>images/btn_cancel.png</file>
+        <file>images/btn_cancel_hover.png</file>
+        <file>images/btn_confirm.png</file>
+        <file>images/btn_confirm_hover.png</file>
+        <file>images/delete.png</file>
+        <file>images/delete_hover.png</file>
+        <file>images/settings_radio_default_hover.png</file>
+        <file>images/settings_radio_selected.png</file>
+        <file>images/settings_radio_selected_hover.png</file>
+        <file>images/settings_radio_default.png</file>
+        <file>images/live tool_menu_icon_settings.png</file>
+        <file>images/live tool_menu_icon_about.png</file>
+        <file>images/live tool_menu_icon_Customer service.png</file>
+        <file>images/live tool_menu_icon_help.png</file>
+        <file>images/live tool_menu_icon_opinon.png</file>
+        <file>images/live tool_menu_icon_specification.png</file>
+        <file>images/live tool_menu_icon_The cancellation.png</file>
+        <file>images/live tool_icon_live.png</file>
+        <file>images/live tool_icon_announcement.png</file>
+        <file>images/focus on_icon.png</file>
+        <file>images/gift_icon.png</file>
+        <file>images/group of_icon.png</file>
+        <file>images/heat_icon.png</file>
+        <file>images/clocks_icon.png</file>
+        <file>images/send.png</file>
+        <file>images/update.png</file>
+        <file>images/update_cancel.png</file>
+        <file>images/go_setttings.png</file>
+        <file>images/settings_icon_The editor.png</file>
+        <file>images/live tool_icon_down.png</file>
+        <file>images/settings_checkbox_default_hover.png</file>
+        <file>images/settings_checkbox_selected.png</file>
+        <file>images/live tool_icon_barrage_hover.png</file>
+        <file>images/live tool_icon_room management_hover.png</file>
+        <file>images/apply.png</file>
+        <file>images/role1.png</file>
+        <file>images/role2.png</file>
+        <file>images/role3.png</file>
+        <file>images/live tlool_icon_picture_normal.png</file>
+        <file>images/live tool_icon_camera_normal.png</file>
+        <file>images/live tool_icon_full_normal.png</file>
+        <file>images/live tool_icon_screenshots_normal.png</file>
+        <file>images/live tool_icon_source_normal.png</file>
+        <file>images/live tool_icon_video_normal.png</file>
+        <file>images/live_tool_icon_text_normal.png</file>
+        <file>images/live tlool_icon_picture_hover.png</file>
+        <file>images/live tool_icon_camera_hover.png</file>
+        <file>images/live tool_icon_full_hover.png</file>
+        <file>images/live tool_icon_screenshots_hover.png</file>
+        <file>images/live tool_icon_source_hover.png</file>
+        <file>images/live tool_icon_video_hover.png</file>
+        <file>images/live_tool_icon_text_hover.png</file>
+        <file>images/live tool_icon_delete.png</file>
+        <file>images/live tool_icon_delete_2x.png</file>
+        <file>images/live tool_icon_down_2x.png</file>
+        <file>images/live tool_icon_up.png</file>
+        <file>images/live tool_icon_up_2x.png</file>
+        <file>images/live tool_menu_icon_settings_2x.png</file>
+        <file>images/live tool_icon_mike no_hover .png</file>
+        <file>images/live tool_icon_mike no_normal.png</file>
+        <file>images/live tool_icon_mike_hover.png</file>
+        <file>images/live tool_icon_mike_normal.png</file>
+        <file>images/live tool_icon_mute_hover.png</file>
+        <file>images/live tool_icon_mute_normal.png</file>
+        <file>images/live tool_icon_the horn_hover.png</file>
+        <file>images/live tool_icon_the horn_normal.png</file>
+        <file>images/live tool_icon_settings_hover.png</file>
+        <file>images/live tool_icon_settings_normal.png</file>
+        <file>images/add_media_default.png</file>
+        <file>images/add_media_hover.png</file>
+        <file>images/last_default.png</file>
+        <file>images/last_disabled.png</file>
+        <file>images/last_hover.png</file>
+        <file>images/next_default.png</file>
+        <file>images/next_disabled.png</file>
+        <file>images/next_hover.png</file>
+        <file>images/video_icon_a single_hover.png</file>
+        <file>images/video_icon_a single_normal.png</file>
+        <file>images/video_icon_cycle_hover.png</file>
+        <file>images/video_icon_cycle_normal.png</file>
+        <file>images/video_icon_random_hover.png</file>
+        <file>images/video_icon_random_normal.png</file>
+        <file>images/window_icon_full_hover.png</file>
+        <file>images/window_icon_full_normal.png</file>
+        <file>images/textHead.png</file>
+        <file>images/uploadProgress.gif</file>
+        <file>images/maximum_over.png</file>
+        <file>images/water_mark.png</file>
+    </qresource>
+</RCC>

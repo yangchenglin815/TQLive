@@ -1,0 +1,344 @@
+*******[11:19:44:835 id:0x00003f54]login client start. user:15268581191
+*******[11:19:47:82 id:0x00003f54]login client end. errorCode:200 errorDesc:OK
+*******[11:21:48:395 id:0x00002ea4]login client start. user:15268581191
+*******[11:21:50:222 id:0x00002ea4]login client end. errorCode:200 errorDesc:OK
+*******[14:09:57:749 id:0x00003288]login client start. user:15268581191
+*******[14:09:59:621 id:0x00003288]login client end. errorCode:200 errorDesc:OK
+*******[14:12:24:767 id:0x00002518]login client start. user:15268581191
+*******[14:12:26:641 id:0x00002518]login client end. errorCode:200 errorDesc:OK
+*******[14:14:06:140 id:0x000040b0]login client start. user:15268581191
+*******[14:14:08:08 id:0x000040b0]login client end. errorCode:200 errorDesc:OK
+*******[14:15:42:234 id:0x00002eb4]login client start. user:15268581191
+*******[14:15:44:108 id:0x00002eb4]login client end. errorCode:200 errorDesc:OK
+*******[14:30:37:247 id:0x000035e4]login client start. user:15268581191
+*******[14:30:39:112 id:0x000035e4]login client end. errorCode:200 errorDesc:OK
+*******[14:31:59:795 id:0x00002704]login client start. user:15268581191
+*******[14:32:01:639 id:0x00002704]login client end. errorCode:200 errorDesc:OK
+*******[14:40:13:477 id:0x00003ed4]login client start. user:15268581191
+*******[14:40:15:336 id:0x00003ed4]login client end. errorCode:200 errorDesc:OK
+*******[14:42:27:534 id:0x000018cc]login client start. user:15268581191
+*******[14:42:29:376 id:0x000018cc]login client end. errorCode:200 errorDesc:OK
+*******[14:44:45:590 id:0x000025e8]login client start. user:15268581191
+*******[14:44:47:453 id:0x000025e8]login client end. errorCode:200 errorDesc:OK
+*******[14:45:36:724 id:0x00002468]login client start. user:15268581191
+*******[14:45:38:617 id:0x00002468]login client end. errorCode:200 errorDesc:OK
+*******[14:47:51:836 id:0x00004274]login client start. user:15268581191
+*******[14:47:53:672 id:0x00004274]login client end. errorCode:200 errorDesc:OK
+*******[14:54:08:05 id:0x000034a4]login client start. user:15268581191
+*******[14:54:09:885 id:0x000034a4]login client end. errorCode:200 errorDesc:OK
+*******[14:55:53:221 id:0x000045a8]login client start. user:15268581191
+*******[14:55:55:63 id:0x000045a8]login client end. errorCode:200 errorDesc:OK
+*******[14:59:52:42 id:0x0000459c]login client start. user:15268581191
+*******[14:59:53:875 id:0x0000459c]login client end. errorCode:200 errorDesc:OK
+*******[15:02:02:710 id:0x0000122c]login client start. user:15268581191
+*******[15:02:04:543 id:0x0000122c]login client end. errorCode:200 errorDesc:OK
+*******[15:14:32:536 id:0x0000264c]login client start. user:15268581191
+*******[15:14:34:409 id:0x0000264c]login client end. errorCode:200 errorDesc:OK
+*******[15:15:18:274 id:0x00003968]login client start. user:15268581191
+*******[15:15:20:137 id:0x00003968]login client end. errorCode:200 errorDesc:OK
+*******[15:15:49:369 id:0x000019f8]login client start. user:15268581191
+*******[15:15:51:243 id:0x000019f8]login client end. errorCode:200 errorDesc:OK
+*******[15:16:54:999 id:0x00003218]login client start. user:15268581191
+*******[15:16:56:910 id:0x00003218]login client end. errorCode:200 errorDesc:OK
+*******[15:19:51:189 id:0x00002ed4]login client start. user:15268581191
+*******[15:19:53:73 id:0x00002ed4]login client end. errorCode:200 errorDesc:OK
+*******[15:29:18:217 id:0x00003eec]login client start. user:15268581191
+*******[15:29:20:49 id:0x00003eec]login client end. errorCode:200 errorDesc:OK
+*******[15:32:02:440 id:0x00003a70]login client start. user:15268581191
+*******[15:32:04:280 id:0x00003a70]login client end. errorCode:200 errorDesc:OK
+*******[15:33:58:215 id:0x00003ab8]login client start. user:15268581191
+*******[15:34:00:79 id:0x00003ab8]login client end. errorCode:200 errorDesc:OK
+*******[15:35:00:463 id:0x00003a70]login client start. user:15268581191
+*******[15:35:02:328 id:0x00003a70]login client end. errorCode:200 errorDesc:OK
+*******[15:35:50:538 id:0x00004428]login client start. user:15268581191
+*******[15:35:52:493 id:0x00004428]login client end. errorCode:200 errorDesc:OK
+*******[15:41:39:388 id:0x000022a4]login client start. user:15268581191
+*******[15:41:41:214 id:0x000022a4]login client end. errorCode:200 errorDesc:OK
+*******[15:58:24:49 id:0x00002c1c]login client start. user:15268581191
+*******[15:58:25:885 id:0x00002c1c]login client end. errorCode:200 errorDesc:OK
+*******[15:59:27:452 id:0x00002ec8]login client start. user:15268581191
+*******[15:59:29:281 id:0x00002ec8]login client end. errorCode:200 errorDesc:OK
+*******[16:07:54:472 id:0x000037b0]login client start. user:15268581191
+*******[16:07:56:311 id:0x000037b0]login client end. errorCode:200 errorDesc:OK
+*******[16:10:51:215 id:0x00002564]login client start. user:15268581191
+*******[16:10:53:68 id:0x00002564]login client end. errorCode:200 errorDesc:OK
+*******[16:20:39:723 id:0x00003468]login client start. user:15268581191
+*******[16:20:41:596 id:0x00003468]login client end. errorCode:200 errorDesc:OK
+*******[16:28:42:815 id:0x000046c8]login client start. user:15268581191
+*******[16:28:44:671 id:0x000046c8]login client end. errorCode:200 errorDesc:OK
+*******[16:29:23:191 id:0x00001b60]login client start. user:15268581191
+*******[16:29:25:102 id:0x00001b60]login client end. errorCode:200 errorDesc:OK
+*******[17:27:19:710 id:0x0000401c]login client start. user:15268581191
+*******[17:27:21:749 id:0x0000401c]login client end. errorCode:200 errorDesc:OK
+*******[13:50:33:118 id:0x00000c3c]login client start. user:15268581191
+*******[13:50:35:239 id:0x00000c3c]login client end. errorCode:200 errorDesc:OK
+*******[13:55:25:354 id:0x000028dc]login client start. user:15268581191
+*******[13:55:27:183 id:0x000028dc]login client end. errorCode:200 errorDesc:OK
+*******[13:57:40:995 id:0x00002034]login client start. user:15268581191
+*******[13:57:42:855 id:0x00002034]login client end. errorCode:200 errorDesc:OK
+*******[13:58:43:321 id:0x00003034]login client start. user:15268581191
+*******[13:58:45:159 id:0x00003034]login client end. errorCode:200 errorDesc:OK
+*******[14:04:50:352 id:0x00004778]login client start. user:15268581191
+*******[14:04:52:220 id:0x00004778]login client end. errorCode:200 errorDesc:OK
+*******[14:05:23:665 id:0x00001554]login client start. user:15268581191
+*******[14:05:25:521 id:0x00001554]login client end. errorCode:200 errorDesc:OK
+*******[14:06:38:294 id:0x00000c58]login client start. user:15268581191
+*******[14:06:40:160 id:0x00000c58]login client end. errorCode:200 errorDesc:OK
+*******[14:08:19:102 id:0x00001dec]login client start. user:15268581191
+*******[14:08:20:980 id:0x00001dec]login client end. errorCode:200 errorDesc:OK
+*******[14:09:45:301 id:0x00002bf8]login client start. user:15268581191
+*******[14:09:46:880 id:0x00002bf8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[14:09:48:166 id:0x00002bf8]login client start. user:15268581191
+*******[14:09:48:237 id:0x00002bf8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[14:10:55:44 id:0x00001204]login client start. user:15268581191
+*******[14:10:56:968 id:0x00001204]login client end. errorCode:200 errorDesc:OK
+*******[14:12:49:779 id:0x00004244]login client start. user:15268581191
+*******[14:12:51:653 id:0x00004244]login client end. errorCode:200 errorDesc:OK
+*******[14:17:31:121 id:0x000041e0]login client start. user:15268581191
+*******[14:17:32:990 id:0x000041e0]login client end. errorCode:200 errorDesc:OK
+*******[14:17:57:617 id:0x0000212c]login client start. user:15268581191
+*******[14:17:59:469 id:0x0000212c]login client end. errorCode:200 errorDesc:OK
+*******[14:51:38:539 id:0x00003bf4]login client start. user:15268581191
+*******[14:51:40:537 id:0x00003bf4]login client end. errorCode:200 errorDesc:OK
+*******[14:52:43:963 id:0x00000b8c]login client start. user:15268581191
+*******[14:52:45:841 id:0x00000b8c]login client end. errorCode:200 errorDesc:OK
+*******[14:53:39:49 id:0x0000479c]login client start. user:15268581191
+*******[14:53:40:934 id:0x0000479c]login client end. errorCode:200 errorDesc:OK
+*******[14:56:25:08 id:0x00000c3c]login client start. user:15268581191
+*******[14:56:26:861 id:0x00000c3c]login client end. errorCode:200 errorDesc:OK
+*******[14:57:15:32 id:0x00001890]login client start. user:15268581191
+*******[14:57:16:873 id:0x00001890]login client end. errorCode:200 errorDesc:OK
+*******[14:58:05:729 id:0x00003488]login client start. user:15268581191
+*******[14:58:07:572 id:0x00003488]login client end. errorCode:200 errorDesc:OK
+*******[14:58:57:119 id:0x000016bc]login client start. user:15268581191
+*******[14:58:58:976 id:0x000016bc]login client end. errorCode:200 errorDesc:OK
+*******[14:59:31:622 id:0x00002df4]login client start. user:15268581191
+*******[14:59:33:465 id:0x00002df4]login client end. errorCode:200 errorDesc:OK
+*******[15:03:51:940 id:0x0000419c]login client start. user:15268581191
+*******[15:03:53:782 id:0x0000419c]login client end. errorCode:200 errorDesc:OK
+*******[15:04:22:156 id:0x00002fcc]login client start. user:15268581191
+*******[15:04:23:988 id:0x00002fcc]login client end. errorCode:200 errorDesc:OK
+*******[15:06:45:587 id:0x00000620]login client start. user:15268581191
+*******[15:06:47:446 id:0x00000620]login client end. errorCode:200 errorDesc:OK
+*******[15:11:08:842 id:0x00003d08]login client start. user:15268581191
+*******[15:11:10:698 id:0x00003d08]login client end. errorCode:200 errorDesc:OK
+*******[15:12:10:929 id:0x00003cf4]login client start. user:15268581191
+*******[15:12:12:790 id:0x00003cf4]login client end. errorCode:200 errorDesc:OK
+*******[15:12:45:488 id:0x00001e64]login client start. user:15268581191
+*******[15:12:47:344 id:0x00001e64]login client end. errorCode:200 errorDesc:OK
+*******[15:19:36:830 id:0x000017f0]login client start. user:15268581191
+*******[15:19:38:720 id:0x000017f0]login client end. errorCode:200 errorDesc:OK
+*******[15:21:08:511 id:0x00003c14]login client start. user:15268581191
+*******[15:21:10:397 id:0x00003c14]login client end. errorCode:200 errorDesc:OK
+*******[15:21:58:328 id:0x0000124c]login client start. user:15268581191
+*******[15:22:00:215 id:0x0000124c]login client end. errorCode:200 errorDesc:OK
+*******[15:23:15:666 id:0x00003c98]login client start. user:15268581191
+*******[15:23:17:510 id:0x00003c98]login client end. errorCode:200 errorDesc:OK
+*******[15:58:43:766 id:0x00001bec]login client start. user:15268581191
+*******[15:58:45:608 id:0x00001bec]login client end. errorCode:200 errorDesc:OK
+*******[16:03:21:131 id:0x00004070]login client start. user:15268581191
+*******[16:03:22:962 id:0x00004070]login client end. errorCode:200 errorDesc:OK
+*******[16:07:38:704 id:0x000040e4]login client start. user:15268581191
+*******[16:07:40:571 id:0x000040e4]login client end. errorCode:200 errorDesc:OK
+*******[16:08:57:16 id:0x00000c58]login client start. user:15268581191
+*******[16:08:59:68 id:0x00000c58]login client end. errorCode:200 errorDesc:OK
+*******[16:10:37:135 id:0x000021b8]login client start. user:15268581191
+*******[16:10:39:01 id:0x000021b8]login client end. errorCode:200 errorDesc:OK
+*******[16:28:59:31 id:0x000020fc]login client start. user:15268581191
+*******[16:29:00:922 id:0x000020fc]login client end. errorCode:200 errorDesc:OK
+*******[16:31:53:949 id:0x00000dd0]login client start. user:15268581191
+*******[16:31:55:842 id:0x00000dd0]login client end. errorCode:200 errorDesc:OK
+*******[16:33:44:813 id:0x00000854]login client start. user:15268581191
+*******[16:33:46:668 id:0x00000854]login client end. errorCode:200 errorDesc:OK
+*******[16:39:13:665 id:0x000028a4]login client start. user:15268581191
+*******[16:39:15:550 id:0x000028a4]login client end. errorCode:200 errorDesc:OK
+*******[17:19:09:760 id:0x000022dc]login client start. user:15268581191
+*******[17:19:11:632 id:0x000022dc]login client end. errorCode:200 errorDesc:OK
+*******[17:32:34:234 id:0x000011dc]login client start. user:15268581191
+*******[17:32:36:108 id:0x000011dc]login client end. errorCode:200 errorDesc:OK
+*******[17:41:31:502 id:0x0000244c]login client start. user:15268581191
+*******[17:41:33:377 id:0x0000244c]login client end. errorCode:200 errorDesc:OK
+*******[17:45:51:341 id:0x0000421c]login client start. user:15268581191
+*******[17:45:53:202 id:0x0000421c]login client end. errorCode:200 errorDesc:OK
+*******[10:03:02:120 id:0x000020d8]login client start. user:15268581191
+*******[10:03:04:220 id:0x000020d8]login client end. errorCode:200 errorDesc:OK
+*******[10:04:20:825 id:0x000004c0]login client start. user:15268581191
+*******[10:04:22:684 id:0x000004c0]login client end. errorCode:200 errorDesc:OK
+*******[10:07:42:469 id:0x00002a48]login client start. user:15268581191
+*******[10:07:44:334 id:0x00002a48]login client end. errorCode:200 errorDesc:OK
+*******[11:43:23:651 id:0x00002fd8]login client start. user:15268581191
+*******[11:43:25:493 id:0x00002fd8]login client end. errorCode:200 errorDesc:OK
+*******[13:47:03:900 id:0x000023d0]login client start. user:15268581191
+*******[13:47:05:766 id:0x000023d0]login client end. errorCode:200 errorDesc:OK
+*******[13:54:41:897 id:0x0000456c]login client start. user:15268581191
+*******[13:54:43:760 id:0x0000456c]login client end. errorCode:200 errorDesc:OK
+*******[13:59:33:559 id:0x0000432c]login client start. user:15268581191
+*******[13:59:35:385 id:0x0000432c]login client end. errorCode:200 errorDesc:OK
+*******[09:26:40:335 id:0x0000334c]login client start. user:15268581191
+*******[09:26:42:448 id:0x0000334c]login client end. errorCode:200 errorDesc:OK
+*******[14:19:16:705 id:0x000030b8]login client start. user:15268581191
+*******[14:19:18:785 id:0x000030b8]login client end. errorCode:200 errorDesc:OK
+*******[14:34:07:625 id:0x00001da8]login client start. user:15268581191
+*******[14:34:09:467 id:0x00001da8]login client end. errorCode:200 errorDesc:OK
+*******[14:39:09:351 id:0x00003234]login client start. user:15268581191
+*******[14:39:11:204 id:0x00003234]login client end. errorCode:200 errorDesc:OK
+*******[17:06:23:69 id:0x000025b8]login client start. user:15268581191
+*******[17:06:25:94 id:0x000025b8]login client end. errorCode:200 errorDesc:OK
+*******[17:08:12:204 id:0x00002990]login client start. user:15268581191
+*******[17:08:13:780 id:0x00002990]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:08:15:941 id:0x00002990]login client start. user:15268581191
+*******[17:08:16:13 id:0x00002990]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:09:19:13 id:0x00002990]login client start. user:15268581191
+*******[17:09:19:646 id:0x00002990]login client end. errorCode:200 errorDesc:OK
+*******[17:15:51:251 id:0x00002e3c]login client start. user:15268581191
+*******[17:15:53:112 id:0x00002e3c]login client end. errorCode:200 errorDesc:OK
+*******[17:29:41:283 id:0x000015d4]login client start. user:15268581191
+*******[17:29:43:137 id:0x000015d4]login client end. errorCode:200 errorDesc:OK
+*******[17:32:30:631 id:0x00003678]login client start. user:15268581191
+*******[17:32:32:521 id:0x00003678]login client end. errorCode:200 errorDesc:OK
+*******[17:33:32:137 id:0x00001e30]login client start. user:15268581191
+*******[17:33:33:993 id:0x00001e30]login client end. errorCode:200 errorDesc:OK
+*******[17:37:36:991 id:0x00002098]login client start. user:15268581191
+*******[17:37:38:871 id:0x00002098]login client end. errorCode:200 errorDesc:OK
+*******[17:38:49:271 id:0x0000104c]login client start. user:15268581191
+*******[17:38:51:142 id:0x0000104c]login client end. errorCode:200 errorDesc:OK
+*******[17:40:07:62 id:0x000003d8]login client start. user:15268581191
+*******[17:40:08:938 id:0x000003d8]login client end. errorCode:200 errorDesc:OK
+*******[17:40:55:545 id:0x000024d0]login client start. user:15268581191
+*******[17:40:57:410 id:0x000024d0]login client end. errorCode:200 errorDesc:OK
+*******[17:42:06:478 id:0x00002938]login client start. user:15268581191
+*******[17:42:08:356 id:0x00002938]login client end. errorCode:200 errorDesc:OK
+*******[17:53:46:266 id:0x000046a8]login client start. user:15268581191
+*******[17:53:48:178 id:0x000046a8]login client end. errorCode:200 errorDesc:OK
+*******[17:54:31:600 id:0x00004534]login client start. user:15268581191
+*******[17:54:33:461 id:0x00004534]login client end. errorCode:200 errorDesc:OK
+*******[17:55:20:523 id:0x00003b64]login client start. user:15268581191
+*******[17:55:22:418 id:0x00003b64]login client end. errorCode:200 errorDesc:OK
+*******[17:59:18:629 id:0x000034a8]login client start. user:15268581191
+*******[17:59:20:195 id:0x000034a8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:59:22:85 id:0x000034a8]login client start. user:15268581191
+*******[17:59:22:155 id:0x000034a8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:59:47:550 id:0x000034a8]login client start. user:15268581191
+*******[17:59:47:616 id:0x000034a8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:59:48:157 id:0x000034a8]login client start. user:15268581191
+*******[17:59:48:224 id:0x000034a8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:59:48:557 id:0x000034a8]login client start. user:15268581191
+*******[17:59:48:623 id:0x000034a8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:59:48:717 id:0x000034a8]login client start. user:15268581191
+*******[17:59:48:783 id:0x000034a8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:59:48:870 id:0x000034a8]login client start. user:15268581191
+*******[17:59:48:937 id:0x000034a8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[17:59:49:21 id:0x000034a8]login client start. user:15268581191
+*******[17:59:49:87 id:0x000034a8]login client end. errorCode:401 errorDesc:Error transferring https://test.api.tanqiu.com/api/live/login - server replied: Internal Server Error
+*******[09:08:48:489 id:0x00002e34]login client start. user:15268581191
+*******[09:08:50:481 id:0x00002e34]login client end. errorCode:200 errorDesc:OK
+*******[09:20:51:340 id:0x00003688]login client start. user:15268581191
+*******[09:20:53:203 id:0x00003688]login client end. errorCode:200 errorDesc:OK
+*******[09:28:30:168 id:0x000047f8]login client start. user:15268581191
+*******[09:28:31:991 id:0x000047f8]login client end. errorCode:200 errorDesc:OK
+*******[09:32:35:382 id:0x00004314]login client start. user:88888888
+*******[09:32:37:193 id:0x00004314]login client end. errorCode:200 errorDesc:OK
+*******[09:35:50:344 id:0x0000069c]login client start. user:15268581191
+*******[09:35:52:182 id:0x0000069c]login client end. errorCode:200 errorDesc:OK
+*******[09:53:22:285 id:0x000013ec]login client start. user:15268581191
+*******[09:53:24:110 id:0x000013ec]login client end. errorCode:200 errorDesc:OK
+*******[09:54:41:789 id:0x000030f0]login client start. user:15268581191
+*******[09:54:43:604 id:0x000030f0]login client end. errorCode:200 errorDesc:OK
+*******[09:56:47:956 id:0x0000349c]login client start. user:15268581191
+*******[09:56:49:783 id:0x0000349c]login client end. errorCode:200 errorDesc:OK
+*******[09:59:22:434 id:0x00003204]login client start. user:15268581191
+*******[09:59:24:306 id:0x00003204]login client end. errorCode:200 errorDesc:OK
+*******[14:03:36:63 id:0x00002410]login client start. user:15268581191
+*******[14:03:38:69 id:0x00002410]login client end. errorCode:200 errorDesc:OK
+*******[14:04:07:935 id:0x00002410]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[14:04:08:39 id:0x00002410]acquire live push address end. errorCode:200 errorDesc:
+*******[14:09:37:381 id:0x00002410]quit live start.
+*******[14:09:37:771 id:0x00002410]quit live end. errorCode:200 errorDesc:
+*******[14:09:37:783 id:0x00002410]acquire live statistical information start.
+*******[14:09:37:865 id:0x00002410]acquire live statistical information end. liveDuration:00:05:27
+*******[14:10:27:603 id:0x00002710]login client start. user:15268581191
+*******[14:10:29:524 id:0x00002710]login client end. errorCode:200 errorDesc:OK
+*******[14:15:03:785 id:0x0000270c]login client start. user:15268581191
+*******[14:15:05:773 id:0x0000270c]login client end. errorCode:200 errorDesc:OK
+*******[14:15:14:532 id:0x0000270c]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[14:15:14:642 id:0x0000270c]acquire live push address end. errorCode:200 errorDesc:
+*******[14:35:08:433 id:0x00004e84]login client start. user:15268581191
+*******[14:35:10:327 id:0x00004e84]login client end. errorCode:200 errorDesc:OK
+*******[14:35:19:449 id:0x00004e84]acquire live push address start. categoryID:3 matchID:23 scheduleData:0
+*******[14:35:19:544 id:0x00004e84]acquire live push address end. errorCode:200 errorDesc:
+*******[14:49:59:683 id:0x00004e84]quit live start.
+*******[14:50:00:109 id:0x00004e84]quit live end. errorCode:200 errorDesc:
+*******[14:50:00:119 id:0x00004e84]acquire live statistical information start.
+*******[14:50:00:202 id:0x00004e84]acquire live statistical information end. liveDuration:00:14:37
+*******[09:17:49:55 id:0x00004d3c]login client start. user:15268581191
+*******[09:17:51:470 id:0x00004d3c]login client end. errorCode:200 errorDesc:OK
+*******[09:21:14:398 id:0x0000357c]login client start. user:15268581191
+*******[09:21:16:221 id:0x0000357c]login client end. errorCode:200 errorDesc:OK
+*******[14:34:47:55 id:0x00003f00]login client start. user:15268581191
+*******[14:34:49:369 id:0x00003f00]login client end. errorCode:200 errorDesc:OK
+*******[14:35:28:128 id:0x00003574]login client start. user:15268581191
+*******[14:35:29:941 id:0x00003574]login client end. errorCode:200 errorDesc:OK
+*******[15:06:45:404 id:0x00003df0]login client start. user:15268581191
+*******[15:06:47:236 id:0x00003df0]login client end. errorCode:200 errorDesc:OK
+*******[15:48:37:693 id:0x000025d4]login client start. user:15268581191
+*******[15:48:39:673 id:0x000025d4]login client end. errorCode:200 errorDesc:OK
+*******[15:48:58:862 id:0x000025d4]Init camera to sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:49:02:543 id:0x000025d4]Del source from sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:39:28:102 id:0x00003908]login client start. user:15268581191
+*******[15:39:30:49 id:0x00003908]login client end. errorCode:4003 errorDesc:µ«¬º√˚ªÚ√‹¬Î¥ÌŒÛ£°
+*******[15:39:35:40 id:0x00003908]login client start. user:15268581191
+*******[15:39:35:217 id:0x00003908]login client end. errorCode:4003 errorDesc:µ«¬º√˚ªÚ√‹¬Î¥ÌŒÛ£°
+*******[15:39:47:396 id:0x00003908]login client start. user:15268581191
+*******[15:39:47:574 id:0x00003908]login client end. errorCode:4003 errorDesc:µ«¬º√˚ªÚ√‹¬Î¥ÌŒÛ£°
+*******[15:41:06:372 id:0x00003908]login client start. user:15268581191
+*******[15:41:06:859 id:0x00003908]login client end. errorCode:200 errorDesc:OK
+*******[15:41:40:970 id:0x00003908]Init camera to sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:41:44:853 id:0x00003908]SourceList index: 0 source name: ÊëÑÂÉèÂ§¥1
+*******[15:41:44:854 id:0x00003908]Set source of name: ÊëÑÂÉèÂ§¥1
+*******[15:46:10:289 id:0x00004384]login client start. user:15268581191
+*******[15:46:12:101 id:0x00004384]login client end. errorCode:200 errorDesc:OK
+*******[15:46:15:869 id:0x00004384]Add source of camera to sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:46:23:618 id:0x00004384]Del source from sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:46:27:214 id:0x00004384]Init camera to sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:47:05:322 id:0x00004384]Del source from sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:49:50:105 id:0x000042b8]login client start. user:15268581191
+*******[15:49:51:933 id:0x000042b8]login client end. errorCode:200 errorDesc:OK
+*******[15:50:03:334 id:0x000042b8]Init camera to sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:50:12:432 id:0x000042b8]Del source from sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:53:38:566 id:0x00003dd0]login client start. user:15268581191
+*******[15:53:40:390 id:0x00003dd0]login client end. errorCode:200 errorDesc:OK
+*******[15:53:49:53 id:0x00003dd0]Init camera to sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:53:55:304 id:0x00003dd0]Init video to sourceList: ËßÜÈ¢ë1
+*******[15:55:23:990 id:0x00003614]login client start. user:15268581191
+*******[15:55:26:49 id:0x00003614]login client end. errorCode:200 errorDesc:OK
+*******[15:55:29:790 id:0x00003614]Add source of text to sourceList: ÊñáÊú¨1
+*******[15:55:29:857 id:0x00003614]Add source of image to sourceList: ÂõæÁâá1
+*******[15:55:30:52 id:0x00003614]Add source of video to sourceList: ËßÜÈ¢ë1
+*******[15:55:30:351 id:0x00003614]Add source of camera to sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:55:39:943 id:0x00003614]Del source from sourceList: ÊëÑÂÉèÂ§¥1
+*******[15:55:42:343 id:0x00003614]Del source from sourceList: ËßÜÈ¢ë1
+*******[15:55:45:17 id:0x00003614]Del source from sourceList: ÂõæÁâá1
+*******[15:56:02:861 id:0x00003c64]login client start. user:15268581191
+*******[15:56:04:692 id:0x00003c64]login client end. errorCode:200 errorDesc:OK
+*******[15:56:08:134 id:0x00003c64]Add source of text to sourceList: ÊñáÊú¨1
+*******[15:56:11:952 id:0x00003c64]Del source from sourceList: ÊñáÊú¨1
+*******[09:45:21:974 id:0x00004060]login client start. user:15268581191
+*******[09:45:24:171 id:0x00004060]login client end. errorCode:200 errorDesc:OK
+*******[09:47:27:363 id:0x000000c8]login client start. user:15268581191
+*******[09:47:29:309 id:0x000000c8]login client end. errorCode:200 errorDesc:OK
+*******[09:48:33:354 id:0x00004184]login client start. user:15268581191
+*******[09:48:35:149 id:0x00004184]login client end. errorCode:200 errorDesc:OK
+*******[16:57:26:878 id:0x00003c18]login client start. user:15268581191
+*******[16:57:28:751 id:0x00003c18]login client end. errorCode:200 errorDesc:OK
+*******[16:59:57:54 id:0x00004338]login client start. user:15268581191
+*******[16:59:58:922 id:0x00004338]login client end. errorCode:200 errorDesc:OK
+*******[17:33:45:406 id:0x00002688]login client start. user:15268581191
+*******[17:33:47:178 id:0x00002688]login client end. errorCode:200 errorDesc:OK
+*******[17:35:59:125 id:0x00003868]login client start. user:15268581191
+*******[17:36:00:945 id:0x00003868]login client end. errorCode:200 errorDesc:OK
+*******[17:40:58:592 id:0x00003748]login client start. user:15268581191
+*******[17:41:00:423 id:0x00003748]login client end. errorCode:200 errorDesc:OK
+*******[17:42:54:10 id:0x00001658]login client start. user:15268581191
+*******[17:42:55:838 id:0x00001658]login client end. errorCode:200 errorDesc:OK
+*******[17:48:25:360 id:0x00002c0c]login client start. user:15268581191
+*******[17:48:27:178 id:0x00002c0c]login client end. errorCode:200 errorDesc:OK
